@@ -1,2 +1,0 @@
-#Custom Ore Generation 1.2.26 Config Options
-#Tue Apr 07 18:56:10 CEST 2020
