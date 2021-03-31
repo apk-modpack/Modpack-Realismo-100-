@@ -1,0 +1,11 @@
+MODPACK REALISMO 100% - VERSION 1.12
+-------------------------------------
+
+Este modpack está preparado para ser ejecutado desde cuaquier carpeta,
+es decir, no tienes por qué modificar tu carpeta .minecraft y así puedes
+jugar distintos modpacks.
+
+Para ejecutarlo, solo abre el archivo Lanzador.bat
+
+Si quieres usar la instalación clásica y sustituir tu carpeta .minecraft,
+encontrarás la carpeta .minecraft dentro de la carpeta Modpack.

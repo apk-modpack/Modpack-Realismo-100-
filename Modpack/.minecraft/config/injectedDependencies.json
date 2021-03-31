@@ -1,0 +1,159 @@
+[
+  {
+    "modId": "TFC-Tweaks",
+    "deps": [
+      {
+        "type": "after",
+        "target": "terrafirmacraft"
+      },
+      {
+        "type": "before",
+        "target": "tfcudarymod"
+      },
+      {
+        "type": "before",
+        "target": "DecorationsTFC"
+      },
+      {
+        "type": "before",
+        "target": "lwstfc"
+      },
+      {
+        "type": "before",
+        "target": "tfcm"
+      },
+      {
+        "type": "before",
+        "target": "tfcautomatedbellows"
+      },
+      {
+        "type": "before",
+        "target": "tfccellars"
+      },
+      {
+        "type": "before",
+        "target": "tfcprimitivetech"
+      },
+      {
+        "type": "before",
+        "target": "weightingscales"
+      },
+      {
+        "type": "before",
+        "target": "animalcrate"
+      },
+      {
+        "type": "before",
+        "target": "MovingWorld"
+      },
+      {
+        "type": "before",
+        "target": "ArchimedesShipsPlus"
+      },
+      {
+        "type": "before",
+        "target": "ComputerCraft"
+      },
+      {
+        "type": "before",
+        "target": "cookingwithtfc"
+      },
+      {
+        "type": "before",
+        "target": "CustomOreGen"
+      },
+      {
+        "type": "before",
+        "target": "IC2"
+      },
+      {
+        "type": "before",
+        "target": "Railcraft"
+      },
+      {
+        "type": "before",
+        "target": "gregtech"
+      },
+      {
+        "type": "before",
+        "target": "miscutils"
+      },
+      {
+        "type": "before",
+        "target": "GTTweaker"
+      },
+      {
+        "type": "before",
+        "target": "Ic2Nei"
+      },
+      {
+        "type": "before",
+        "target": "IC2NuclearControl"
+      },
+      {
+        "type": "before",
+        "target": "MemoryCleaner"
+      },
+      {
+        "type": "before",
+        "target": "MineTweaker3"
+      },
+      {
+        "type": "before",
+        "target": "naturescompass"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|Developer"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|AppEng"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|Botany"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|Forestry"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|CraftingTables"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|ExNihilo"
+      },
+      {
+        "type": "before",
+        "target": "neiintegration"
+      },
+      {
+        "type": "before",
+        "target": "ReiMinimap"
+      },
+      {
+        "type": "before",
+        "target": "TerraFirmaCraftNEIplugin"
+      },
+      {
+        "type": "before",
+        "target": "TFCTweaker"
+      },
+      {
+        "type": "before",
+        "target": "Waila"
+      },
+      {
+        "type": "before",
+        "target": "bspkrsCore"
+      }
+    ]
+  }
+]

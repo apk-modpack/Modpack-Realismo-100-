@@ -1,0 +1,33 @@
+recipes.remove(<minecraft:iron_ingot>);
+recipes.addShaped(<terrafirmacraft:item.Wrought Iron Ingot>,[[<gregtech:gt.metaitem.01:9032>,<gregtech:gt.metaitem.01:9032>,<gregtech:gt.metaitem.01:9032>],[<gregtech:gt.metaitem.01:9032>,<gregtech:gt.metaitem.01:9032>,<gregtech:gt.metaitem.01:9032>],[<gregtech:gt.metaitem.01:9032>,<gregtech:gt.metaitem.01:9032>,<gregtech:gt.metaitem.01:9032>]]);
+
+
+<terrafirmacraft:item.Bismuth Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Bismuth Bronze Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Black Bronze Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Black Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Blue Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Brass Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Bronze Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Copper Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Gold Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Wrought Iron Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Lead Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Nickel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Pig Iron Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Platinum Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Red Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Rose Gold Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Silver Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Sterling Silver Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Tin Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Zinc Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.HC Black Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Weak Blue Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.HC Blue Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Weak Red Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.HC Red Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Weak Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.HC Steel Unshaped>.maxStackSize=1;
+<terrafirmacraft:item.Unknown Unshaped>.maxStackSize=1;

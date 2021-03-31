@@ -1,0 +1,118 @@
+Versión 1.12
+
+
+Versión 1.11
+- Ajustado crafteo del Motor Comercial a Vapor del Railcraft
+- Ajustado crafteo del Motor Industrial a Vapor del Railcraft
+- Añadido crafteo original de la batería recargable del Industrialcraft
+- Añadido crafteo original del generador del Industrialcraft
+- Corregido crafteo de la Enlatadora de Líquidos/Sólidos del Industrialcraft
+- Corregidos algunos crafteos del GregTech relacionados con los circuitos
+- Corregidos los crafteos del Sprayer de Cemento del Industrialcraft
+
+Versión 1.10
+- Mod GregTech actualizado
+- Mod GT++ actualizado
+- Bug solucionado: al apilarse los lingotes en molde del Terrafirmacraft se duplicaban los moldes al desmoldar los lingotes
+- Ajustadas algunas configuraciones del Gregtech
+- Simplificado el forjado en yunque de los tuyere del Terrafirmacraft
+
+Versión 1.09
+- Configuración del Gt++ cambiada a modo más realista
+- Ajustado crafteo del Floater del Archimedes Ships
+- Corregida receta de la bobina IC2
+- Corregido Ore Dictionary para añadir los cofres de Terrafirmacraft a recetas Gregtech
+- Fertilizante añadido a la configuración del Stacks On Stacks
+- Corregida receta de lingote de hierro desde pepitas de hierro
+- Ajustada temperatura de evaporación del TFC Udary
+- Ajustado crafteo de célula fotovoltaica del Solar Expansion
+- Deshabilitadas vías de empuje del Railcraft
+- Deshabilitados chunk loaders del Railcraft
+- Ajustado consumo de combustible de las locomotoras del Railcraft
+- Añadido crafteo de tinte rojo a partir de flor de sangre
+- Solucionado un bug que afectaba a las partidas en LAN
+- Añadido mod Server Properties on LAN
+- Solucionado un bug complejo que afectaba a la arcilla
+- Simplificado el forjado en yunque de todas las hachas
+- Corregido bug leche de soja con aguas termales
+- Corregido bug unificación Tiny Clay Dust
+
+Versión 1.08
+- Actualizado mod GT++
+- Corregido el crafteo del polvo de cemento del Industrialcraft
+- Corregido crafteo de las tijeras de cables del Industrialcraft
+- Añadido mod Extendable Ladders
+- Simplificado el forjado en yunque de todos los picos de minería
+- Añadidas recetas de poción de medicina natural de Capuchina y Caléndula
+- Mod Gui Elevator eliminado
+- Mod Dynamic Transport añadido
+- Ajustados crafteos del mod Dynamic Transport
+- Simplificado el forjado en yunque de la tolva del Terrafirmacraft
+- Ahora los bloques de arcilla se pueden craftear con 2x2 de arcilla del Terrafirmacraft
+- Corregido crafteo del Bricked Blast Furnace del Gregtech
+- Eliminado crafteo cubo de agua infinita del Ye Olde Tanks
+- Corregido crafteo de tolva Vanilla
+
+Versión 1.07
+- Bug corregido: se podía macerar el cubo de madera del Terrafirmacraft y daba hierro
+- Ajustado crafteo de hilo de lana del Terrafirmacraft
+- Simplificado el forjado en yunque de las linternas del DecorationsTFC
+- Añadido crafteo de polvo de blaze
+- Ajustado crafteo del Pozo de Minería del Buildcraft para usar pico de hierro del Terrafirmacraft
+- Corregido crafteo del carro Astikoor
+- Coregido crafteo de la brújula
+- Eliminado mod JABBA
+- Se han añadido los huesos a la configuración del Stacks On Stacks para permitir apilarlos
+- Se han quitado algunas recetas de conversión de items
+- Se ha vuelto a añadir el crafteo del yunque Vanilla (es la única forma de renombrar items y etiquetas)
+
+Versión 1.06
+- Corregido crafteo scoop con grava para hacer pedernal con grava del Terrafirmacraft
+- Quitado crafteo del yunque Vanilla y del molde que se usa para hacerlo con Gregtech, impidiendo así que se pueda craftear
+- Corregido crafteo del Steam Forge Hammer del Gregtech para usar yunques del Terrafirmacraft
+- Se ha vuelto a añadir el agua infinita del Terrafirmacraft
+- Quitado crafteo de cofre Minecraft Vanilla
+- Corregidos algunos crafteos del Railcraft
+- Se han quitado los crafteos del JABBA, menos el mover básico y el barril básico
+
+Versión 1.05
+- Eliminado mod OptiFine (impide la lluvia)
+- Añadido mod Custom Items
+- Corregido error bug de script quimica.zs
+- Ahora las pepitas de cobre, estaño y oro dan lingotes del Terrafirmacraft al craftearlas en 3x3
+- Corregida configuración del mod Custom Things
+- Corregido bug cambio de ores pequeños del Terrafirmacraft
+- Ahora el fundente del Terrafirmacraft puede hacerse con cualquier tipo de piedra
+
+Versión 1.04
+- Corregido bug cambio de ores pequeños del Terrafirmacraft
+- Quitada agua infinita del Terrafirmcraft
+- Añadidos script de química primitva y de medicina natural
+- Corregida configuración del Antique Atlas
+- Solucionado un bug del script de leches vegetales
+- Mejorados algunos tiles del mapa del Antique Atlas
+
+Versión 1.03
+- Añadido Addon TFC Merchants
+- Ahora los taninos pueden hacerse con cualquier tipo de madera
+- Las gemas ya no dan luz cuando se ponen en el mundo
+- Todas las lámparas del TFC Decorations tiene un nivel 15 de luz
+- Se han simplificado todas las recetas del yunque del addon TFC Merchants
+
+Versión 1.02
+- Configuración de Stacks On Stacks modificada para añadir Silvita
+- Eliminado mod Decocraft
+- Eliminado Azada de yugo del Astikoor
+- Ajustados crafteos del Astikoor
+- Solucionado un bug que no mostraba el cofre vanilla en el NEI
+- Eliminados algunos bloques irreales en el NEI
+
+Versión 1.01
+- Configuración de Stacks On Stacks modificada para añadir palos y paja
+  a los montones
+- Eliminada receta irreal de vinagre hecha de leche y agua marina
+- Spawners de enemigos/animales eliminados del NEI
+- Huevos spawn de enemigos/animales eliminados del NEI
+- Bloques de portal al Nether y al End eliminados del NEI
+- Mod Nature Compass eliminado
+- Añadido Custom NPCs

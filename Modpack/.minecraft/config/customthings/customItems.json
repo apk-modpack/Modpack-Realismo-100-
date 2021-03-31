@@ -1,0 +1,26 @@
+{"data":
+    [
+            {
+				"name": "Common Ore Dirt",
+				"rarity": "common",			
+				"maxStackSize": "64"
+		},
+            {
+				"name": "Uncommon Ore Dirt",
+				"rarity": "uncommon",			
+				"maxStackSize": "64"
+		}
+,
+            {
+				"name": "Rare Ore Dirt",
+				"rarity": "rare",			
+				"maxStackSize": "64"
+		}
+,
+            {
+				"name": "Epic Ore Dirt",
+				"rarity": "epic",			
+				"maxStackSize": "64"
+		}
+    ]
+}

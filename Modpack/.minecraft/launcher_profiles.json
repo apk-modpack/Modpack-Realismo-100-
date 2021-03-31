@@ -1,0 +1,27 @@
+{
+  "profiles": {
+    "apk": {
+      "name": "apk",
+      "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10",
+      "javaArgs": "-d64 -Xmx4G -Xms1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M",
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    }
+  },
+  "selectedProfile": "apk",
+  "clientToken": "2f11f0bf-610c-41ca-8896-2714ba4df2ec",
+  "authenticationDatabase": {
+    "44b7d352026e3717b875a6cb619d638f": {
+      "displayName": "apk",
+      "accessToken": "44b7d352-026e-3717-b875-a6cb619d638f",
+      "userid": "apk",
+      "uuid": "44b7d352-026e-3717-b875-a6cb619d638f",
+      "username": "apk"
+    }
+  },
+  "selectedUser": "44b7d352026e3717b875a6cb619d638f",
+  "launcherVersion": {
+    "name": "Shiginima Launcher v4.100",
+    "format": 21,
+    "profilesFormat": 1
+  }
+}
