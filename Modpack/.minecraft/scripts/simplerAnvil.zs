@@ -80,6 +80,7 @@ mods.Terrafirmacraft.Anvil.addPlanRecipe("trusselmoneda", 1,1,1);
 mods.Terrafirmacraft.Anvil.addPlanRecipe("tolva", 1,1,1);
 mods.Terrafirmacraft.Anvil.addPlanRecipe("hacha", 1,1,1);
 mods.Terrafirmacraft.Anvil.addPlanRecipe("tuyere2", 1,1,1);
+mods.Terrafirmacraft.Anvil.addPlanRecipe("pala", 1,1,1);
 
 game.setLocalization("gui.plans.pico", "Pico");
 game.setLocalization("gui.plans.martillo", "Martillo");
@@ -87,12 +88,22 @@ game.setLocalization("gui.plans.pala", "Pala");
 game.setLocalization("gui.plans.tolva", "Tolva");
 game.setLocalization("gui.plans.hacha", "Hacha");
 game.setLocalization("gui.plans.tuyere2", "Tuyere");
-
+game.setLocalization("gui.plans.pala", "Pala");
 
 //Remove Anvil Recipe
 //-----------------------------------------------
 //OutputStack, InputStack1, InputStack2, PlanName, MinimalAnvilTier (Range 0-7)
 mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:Hopper>,<terrafirmacraft:item.Wrought Iron Double Sheet>,<terrafirmacraft:item.Wrought Iron Double Sheet>,"hopper",3);
+
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Bismuth Bronze Shovel Head>,<terrafirmacraft:item.Bismuth Bronze Ingot>,null,"shovel",2);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Black Bronze Shovel Head>,<terrafirmacraft:item.Black Bronze Ingot>,null,"shovel",2);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Black Steel Shovel Head>,<terrafirmacraft:item.Black Steel Ingot>,null,"shovel",5);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Bronze Shovel Head>,<terrafirmacraft:item.Bronze Ingot>,null,"shovel",2);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Copper Shovel Head>,<terrafirmacraft:item.Copper Ingot>,null,"shovel",1);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Red Steel Shovel Head>,<terrafirmacraft:item.Red Steel Ingot>,null,"shovel",6);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Wrought Iron Shovel Head>,<terrafirmacraft:item.Wrought Iron Ingot>,null,"shovel",3);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Steel Shovel Head>,<terrafirmacraft:item.Steel Ingot>,null,"shovel",4);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Blue Steel Shovel Head>,<terrafirmacraft:item.Blue Steel Ingot>,null,"shovel",6);
 
 mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Copper Tuyere>,<terrafirmacraft:item.Copper Double Sheet>,null,"tuyere",1);
 mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Bronze Tuyere>,<terrafirmacraft:item.Bronze Double Sheet>,null,"tuyere",2);
@@ -135,6 +146,16 @@ mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Blue Steel Ha
 
 
 mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:Hopper>,<terrafirmacraft:item.Wrought Iron Double Sheet>,<terrafirmacraft:item.Wrought Iron Double Sheet>,"tolva",3);
+
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Bismuth Bronze Shovel Head>,<terrafirmacraft:item.Bismuth Bronze Ingot>,"pala",2);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Black Bronze Shovel Head>,<terrafirmacraft:item.Black Bronze Ingot>,"pala",2);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Black Steel Shovel Head>,<terrafirmacraft:item.Black Steel Ingot>,"pala",5);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Bronze Shovel Head>,<terrafirmacraft:item.Bronze Ingot>,"pala",2);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Copper Shovel Head>,<terrafirmacraft:item.Copper Ingot>,"pala",1);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Red Steel Shovel Head>,<terrafirmacraft:item.Red Steel Ingot>,"pala",6);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Wrought Iron Shovel Head>,<terrafirmacraft:item.Wrought Iron Ingot>,"pala",3);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Steel Shovel Head>,<terrafirmacraft:item.Steel Ingot>,"pala",4);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Blue Steel Shovel Head>,<terrafirmacraft:item.Blue Steel Ingot>,"pala",6);
 
 
 mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Copper Tuyere>,<terrafirmacraft:item.Copper Double Sheet>,"tuyere2",1);

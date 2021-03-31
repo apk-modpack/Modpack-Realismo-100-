@@ -1,5 +1,5 @@
 Versión 1.12
-
+- Simplificado el forjado en yunque de todas las palas del Terrafirmacraft
 
 Versión 1.11
 - Ajustado crafteo del Motor Comercial a Vapor del Railcraft
