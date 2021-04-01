@@ -1,0 +1,947 @@
+ERROR: system: Crop is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Adding Tablas de Abeto to ore dictionary entry plankWood
+INFO: Adding recipe for Carbón
+INFO: Adding recipe for Carbón
+INFO: Adding recipe for Carbón Vegetal
+INFO: Adding recipe for Carbón vegetal
+INFO: Removing 3 recipes
+INFO: Adding recipe for Lingote de Hierro forjado
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Cobre
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Bronce
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Bismuto
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Bronce de Bismuto
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Oro
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Estaño
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Zinc
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Plata
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Arrabio
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Bronce Negro
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Pico de Cobre
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Pico de Bronce
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Pico de Bronce de Bismuto
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Pico de Bronce Negro
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal del Pico de Prospector de Cobre
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal del Pico de Prospector de Bronce de Bismuto
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal del Pico de Prospector de Bronce
+INFO: Removing 1 recipes
+INFO: Adding recipe for Hoja de Sierra de Bronce de Bismuto
+INFO: Removing 1 recipes
+INFO: Adding recipe for Hoja de Sierra de Bronce
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Hacha de Bronce
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Hacha de Bronce de Bismuto
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Hacha de Bronce Negro
+INFO: Removing 1 recipes
+INFO: Adding recipe for Hoja de Espada de Bronce de Bismuto
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Pala de Bronce
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Pala de Bronce de Bismuto
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Pala de Bronce Negro
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Guadaña de Bronce de Bismuto
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Cincel de Cobre
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Cincel de Bronce
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Cincel de Bronce de Bismuto
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Cincel de Bronce Negro
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Azada de Cobre
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Azada de Bronce
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cabezal de Azada de Bronce de Bismuto
+INFO: Removing 1 recipes
+INFO: Adding recipe for Hoja de Cuchillo de Cobre
+INFO: Adding recipe for Tolva
+INFO: Adding recipe for Tolva
+INFO: Adding recipe for Fruit Press
+INFO: Adding recipe for Alfombra
+INFO: Adding recipe for Alfombra negra
+INFO: Adding recipe for Hilo
+INFO: Adding recipe for Pico de diamante
+INFO: Adding recipe for Losa de madera de roble
+INFO: Adding recipe for Hilo de Lana
+INFO: Removing Cubo de Madera (Vacío) from ore dictionary entry bucketEmpty
+INFO: Removing 2 recipes
+INFO: Removing 16 recipes
+INFO: Removing 1 recipes
+INFO: Removing 4 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Ship's Helm
+INFO: Adding recipe for Ship's Helm
+INFO: Adding recipe for Floater
+INFO: Adding recipe for Floater
+INFO: Adding recipe for Floater
+INFO: Adding recipe for Floater
+INFO: Adding recipe for Air Balloon
+INFO: Adding recipe for Orange Air Balloon
+INFO: Adding recipe for Magenta Air Balloon
+INFO: Adding recipe for Light Blue Air Balloon
+INFO: Adding recipe for Yellow Air Balloon
+INFO: Adding recipe for Yellow Air Balloon
+INFO: Adding recipe for Lime Air Balloon
+INFO: Adding recipe for Pink Air Balloon
+INFO: Adding recipe for Gray Air Balloon
+INFO: Adding recipe for Silver Air Balloon
+INFO: Adding recipe for Cyan Air Balloon
+INFO: Adding recipe for Purple Air Balloon
+INFO: Adding recipe for Blue Air Balloon
+INFO: Adding recipe for Blue Air Balloon
+INFO: Adding recipe for Brown Air Balloon
+INFO: Adding recipe for Green Air Balloon
+INFO: Adding recipe for Green Air Balloon
+INFO: Adding recipe for Red Air Balloon
+INFO: Adding recipe for Red Air Balloon
+INFO: Adding recipe for Black Air Balloon
+INFO: Adding recipe for Measurement Gauges
+INFO: Adding recipe for Measurement Gauges
+INFO: Adding recipe for Measurement Gauges
+INFO: Adding recipe for Measurement Gauges
+INFO: Adding recipe for Passenger Seat
+INFO: Adding recipe for Shore Buffer
+INFO: Adding recipe for Sticky Buffer
+INFO: Adding recipe for Steam Engine
+INFO: Adding recipe for Wooden Crate
+INFO: Adding recipe for Anchor Point
+INFO: Removing 1 recipes
+INFO: Hiding item.astikoor:plowcart in NEI
+INFO: Removing 1 recipes
+INFO: Adding recipe for Wheel
+INFO: Removing 1 recipes
+INFO: Adding recipe for Cart
+INFO: Adding recipe for Marca de Suelo
+INFO: Removing 1 recipes
+INFO: Adding recipe for Pozo de Minería
+INFO: Adding Engranaje de Hierro to ore dictionary entry gearAnyIron
+INFO: Adding item 'Jack O' Lantern' with 'Aguas termales' to barrel yeilding 'Broth'
+INFO: Adding recipe for Turtle
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Adding recipe for Clay Transport Pipe
+INFO: Removing 8 recipes
+INFO: Adding recipe for Clay Dust
+INFO: Removing 1 furnace recipes
+INFO: Adding furnace recipe for <customitems:bloque_arcilla>
+INFO: Adding recipe for Arcilla
+INFO: Adding Pulverizer recipe for <customitems:bloque_arcilla>
+INFO: Hiding tile.clay in NEI
+INFO: Removing 1 recipes
+INFO: Adding recipe for Lingote de Cobre
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Oro
+INFO: Removing 1 recipes
+INFO: Adding recipe for Lingote de Estaño
+INFO: Removing 1 recipes
+INFO: Adding Yunque to ore dictionary entry anvil
+INFO: Adding Yunque ligeramente dañado to ore dictionary entry anvil
+INFO: Adding Yunque muy dañado to ore dictionary entry anvil
+INFO: Adding Yunque Cobre to ore dictionary entry anvil
+INFO: Adding Yunque Bronce to ore dictionary entry anvil
+INFO: Adding Yunque Hierro Forjado to ore dictionary entry anvil
+INFO: Adding Yunque Acero to ore dictionary entry anvil
+INFO: Adding Yunque Acero Negro to ore dictionary entry anvil
+INFO: Adding Yunque Acero Azul to ore dictionary entry anvil
+INFO: Adding Yunque Acero Rojo to ore dictionary entry anvil
+INFO: Adding Yunque Oro Rojo to ore dictionary entry anvil
+INFO: Adding Yunque Bronce de Bismuto to ore dictionary entry anvil
+INFO: Adding Yunque Bronce Negro to ore dictionary entry anvil
+INFO: Removing 1 recipes
+INFO: Adding recipe for Steam Forge Hammer
+INFO: Adding recipe for Clay Dust
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding tile.portal in NEI
+INFO: Hiding tile.null in NEI
+INFO: Hiding tile.endPortalFrame in NEI
+INFO: Adding Cofre as NEI entry
+INFO: Hiding tile.dimensionAustraliaPortalBlock in NEI
+INFO: Hiding tile.blockAustraliaPortalFrame in NEI
+INFO: Hiding tile.blockDarkWorldPortal in NEI
+INFO: Hiding tile.blockDarkWorldPortalFrame in NEI
+INFO: Hiding tile.enderChest in NEI
+INFO: Hiding tile.commandBlock in NEI
+INFO: Hiding tile.netherquartz in NEI
+INFO: Hiding tile.mycel in NEI
+INFO: Hiding tile.whiteStone in NEI
+INFO: Hiding tile.dragonEgg in NEI
+INFO: Hiding tile.log.oak in NEI
+INFO: Hiding tile.log.spruce in NEI
+INFO: Hiding tile.log.birch in NEI
+INFO: Hiding tile.log.jungle in NEI
+INFO: Hiding tile.leaves.oak in NEI
+INFO: Hiding tile.leaves.spruce in NEI
+INFO: Hiding tile.leaves.birch in NEI
+INFO: Hiding tile.leaves.jungle in NEI
+INFO: Hiding tile.sapling.oak in NEI
+INFO: Hiding tile.sapling.spruce in NEI
+INFO: Hiding tile.sapling.birch in NEI
+INFO: Hiding tile.sapling.jungle in NEI
+INFO: Hiding tile.sapling.acacia in NEI
+INFO: Hiding tile.sapling.roofed_oak in NEI
+INFO: Removing 1 recipes
+INFO: Hiding tile.sponge in NEI
+INFO: Hiding tile.leaves.acacia in NEI
+INFO: Hiding tile.leaves.big_oak in NEI
+INFO: Hiding tile.log.acacia in NEI
+INFO: Hiding tile.log.big_oak in NEI
+INFO: Hiding tile.hayBlock in NEI
+INFO: Hiding item.skull.skeleton in NEI
+INFO: Hiding item.skull.wither in NEI
+INFO: Hiding item.skull.zombie in NEI
+INFO: Removing 2 recipes
+INFO: Hiding item.skull.char in NEI
+INFO: Hiding item.skull.creeper in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.yot.infiniteWaterBucket in NEI
+INFO: Hiding ic2.blockElecFurnace in NEI
+INFO: Hiding ic2.blockMacerator in NEI
+INFO: Hiding ic2.blockExtractor in NEI
+INFO: Hiding ic2.blockCompressor in NEI
+INFO: Hiding ic2.blockRecycler in NEI
+INFO: Hiding ic2.blockInduction in NEI
+INFO: Hiding ic2.blockMatter in NEI
+INFO: Hiding ic2.blockMetalFormer in NEI
+INFO: Hiding ic2.blockOreWashingPlant in NEI
+INFO: Hiding ic2.blockBlockCutter in NEI
+INFO: Hiding ic2.blockBlastFurnace in NEI
+INFO: Hiding ic2.blockReplicator in NEI
+INFO: Hiding ic2.blockCentrifuge in NEI
+INFO: Adding recipe for Fibra de Yute
+INFO: Removing 1 recipes
+INFO: Adding recipe for Elevator
+INFO: Removing 1 recipes
+INFO: Adding recipe for Elevator Computer
+INFO: Removing 1 recipes
+INFO: Adding recipe for Floor Marker Block
+INFO: Removing 1 recipes
+INFO: Adding recipe for Elevator Tool
+INFO: Removing 1 recipes
+INFO: Adding recipe for Rope Ladder
+INFO: Removing 1 recipes
+INFO: Adding Cofre to ore dictionary entry craftingChest
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Lingote de Cobre
+INFO: Adding recipe for Bronze Ingot
+INFO: Adding recipe for Lingote de Bronce
+INFO: Adding recipe for Crushed Graphite Ore
+INFO: Adding recipe for Grafito
+INFO: Adding recipe for Kaolinite
+INFO: Adding recipe for Polvo de Grafito
+INFO: Adding recipe for Graphite Ore
+INFO: Adding recipe for Grafito
+INFO: Adding recipe for Bismuth Bronze Ingot
+INFO: Adding recipe for Lingote de Bronce de Bismuto
+INFO: Adding recipe for Bismuth Ingot
+INFO: Adding recipe for Lingote de Bismuto
+INFO: Removing 2 recipes
+INFO: Adding recipe for Lingote de Oro
+INFO: Adding recipe for Lingote de oro
+INFO: Adding recipe for Lingote de Estaño
+INFO: Adding recipe for Tin Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Lingote de Plata
+INFO: Adding recipe for Zinc Ingot
+INFO: Adding recipe for Lingote de Zinc
+INFO: Adding recipe for Tin Ingot
+INFO: Adding recipe for Lingote de Estaño
+INFO: Removing 1 recipes
+INFO: Adding recipe for Lingote de hierro
+INFO: Adding recipe for Lingote de Hierro forjado
+INFO: Adding recipe for Bronze Plated Blast Furnace
+INFO: Adding Chemical Reactor recipe for <minecraft:blaze_powder>
+INFO: Adding Centrifuge recipe with Fluids for <gregtech:gt.metaitem.01:2837>
+INFO: Adding Precision Laser recipe for <gregtech:gt.metaitem.03:32038>
+INFO: Adding wiremill recipe for <IC2:itemPartCarbonFibre>
+INFO: Adding recipe for Pedernal
+INFO: Adding recipe for Lingote de Hierro forjado
+INFO: Adding recipe for Vacuum Tube
+INFO: Adding recipe for Vacuum Tube
+INFO: Adding assembler recipe with fluid Support for <gregtech:gt.metaitem.01:32700>
+INFO: Adding assembler recipe with fluid Support for <gregtech:gt.metaitem.01:32700>
+INFO: Adding recipe for Resistor
+INFO: Adding recipe for Resistor
+INFO: Adding assembler recipe with fluid Support for <gregtech:gt.metaitem.01:32716>
+INFO: Adding assembler recipe with fluid Support for <gregtech:gt.metaitem.01:32716>
+INFO: Adding recipe for Circuit Board
+INFO: Adding alloy smelter recipe for <gregtech:gt.metaitem.03:32012>
+INFO: Adding recipe for Mold (Ball)
+INFO: Adding recipe for Empty Shape Plate
+INFO: Adding recipe for Mold (Plate)
+INFO: Adding recipe for Máquina
+INFO: Adding recipe for Carbono Bruto
+INFO: Adding recipe for Bola de Slime
+INFO: Adding recipe for Pelacables Universal
+INFO: Removing 1 recipes
+INFO: Adding recipe for Polvo CF
+INFO: Removing 1 recipes
+INFO: Adding recipe for Bobina
+INFO: Adding recipe for Batería-RE
+INFO: Adding recipe for Generador
+INFO: Removing 1 recipes
+INFO: Adding recipe for Enlatadora de Líquidos/Sólidos
+INFO: Removing 1 recipes
+INFO: Adding recipe for Spray para Espuma de Construcción
+INFO: Removing 1 recipes
+INFO: Adding recipe for Celda Universal de Líquidos
+INFO: Adding item 'Grano de Arroz' with 'Aguas termales' to barrel yeilding 'Soy Milk'
+INFO: Adding item 'Grano de Arroz' with 'Hot Water' to barrel yeilding 'Soy Milk'
+INFO: Adding item 'Almond' with 'Aguas termales' to barrel yeilding 'Soy Milk'
+INFO: Adding item 'Almond' with 'Hot Water' to barrel yeilding 'Soy Milk'
+INFO: Adding item 'Grano de Avena' with 'Aguas termales' to barrel yeilding 'Soy Milk'
+INFO: Adding item 'Grano de Avena' with 'Hot Water' to barrel yeilding 'Soy Milk'
+INFO: Adding item 'Soybean Paste' with 'Aguas termales' to barrel yeilding 'Soy Milk'
+INFO: Adding recipe for Botella vacia
+INFO: Removing 0 recipes
+INFO: Adding recipe for Poción de regeneración
+INFO: Adding recipe for Poción de regeneración
+INFO: Adding recipe for Poción de regeneración
+INFO: Adding recipe for Botella vacia
+INFO: Adding recipe for Frasco de cristal
+INFO: Adding recipe for Antorcha
+INFO: Adding recipe for Tolva
+INFO: Removing 3 recipes
+INFO: Adding recipe for Lana
+INFO: Adding recipe for Cama
+INFO: Adding recipe for Brújula
+INFO: Adding recipe for Lana
+INFO: Adding recipe for Mesa de trabajo
+INFO: Adding recipe for Mesa de trabajo
+INFO: Adding recipe for Diente de león
+INFO: Adding recipe for Diente de león
+INFO: Adding recipe for Repetidor de redstone
+INFO: Adding recipe for Repetidor de redstone
+INFO: Adding recipe for Tinte Azul
+INFO: Adding recipe for Tinte Azul
+INFO: Removing 1 recipes
+INFO: Adding recipe for Bloque arcilla
+INFO: Adding Sifter recipe for <customthings:item>.withTag({display: {Lore: ["This dirt has a common composition"], Name: "Common Ore Dirt"}})
+INFO: Adding Sifter recipe for <customthings:item:1>.withTag({display: {Lore: ["This dirt has an uncommon composition"], Name: "Uncommon Ore Dirt"}})
+INFO: Adding Sifter recipe for <customthings:item:2>.withTag({display: {Lore: ["This dirt has a rare composition"], Name: "Rare Ore Dirt"}})
+INFO: Adding Sifter recipe for <customthings:item:3>.withTag({display: {Lore: ["This dirt has an epic composition"], Name: "Epic Ore Dirt"}})
+INFO: Adding Sifter recipe for <ore:blockDirt>
+INFO: Adding Sifter recipe for <gregtech:gt.metaitem.01:2299>
+INFO: Adding item 'Fertilizante' with 'Base Potash Liquor' to barrel yeilding 'Polvo de Salitre'
+INFO: Adding item 'Fundente' with 'Fertilizante desnitrado' to barrel yeilding 'Polvo de Azufre'
+INFO: Removing 12 recipes
+INFO: Adding recipe for Pólvora
+INFO: Adding recipe for Polvo de Blaze
+INFO: Adding recipe for Amarre de Madera
+INFO: Adding recipe for Pared para Tanque de Hierro
+INFO: Adding recipe for Pared para Tanque de Acero
+INFO: Adding recipe for Riel de Madera
+INFO: Adding recipe for Placa de Hierro
+INFO: Adding recipe for Placa de Hierro forjado
+INFO: Removing 1 recipes
+INFO: Adding recipe for Ladrillos para Horno de Fuel
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Bloque Arenoso
+INFO: Removing 1 recipes
+INFO: Adding recipe for Motor Comercial a Vapor
+INFO: Adding Engranaje de Acero to ore dictionary entry gearSteel
+INFO: Removing 1 recipes
+INFO: Adding recipe for Motor Industrial a Vapor
+INFO: Adding plan 'linterna'
+INFO: Setting localization for the key: gui.plans.linterna to Linterna
+INFO: Removing plan 'trussel'
+INFO: Removing plan 'anvildie'
+INFO: Removing plan 'flan'
+INFO: Setting localization for the key: gui.plans.moneda to Moneda
+INFO: Setting localization for the key: gui.plans.moldemoneda to Molde Moneda
+INFO: Setting localization for the key: gui.plans.trusselmoneda to Grabador Moneda
+INFO: Adding plan 'pico'
+INFO: Adding plan 'martillo'
+INFO: Adding plan 'pala'
+INFO: Adding plan 'moneda'
+INFO: Adding plan 'moldemoneda'
+INFO: Adding plan 'trusselmoneda'
+INFO: Adding plan 'tolva'
+INFO: Adding plan 'hacha'
+INFO: Adding plan 'tuyere2'
+INFO: Adding plan 'pala'
+INFO: Setting localization for the key: gui.plans.pico to Pico
+INFO: Setting localization for the key: gui.plans.martillo to Martillo
+INFO: Setting localization for the key: gui.plans.pala to Pala
+INFO: Setting localization for the key: gui.plans.tolva to Tolva
+INFO: Setting localization for the key: gui.plans.hacha to Hacha
+INFO: Setting localization for the key: gui.plans.tuyere2 to Tuyere
+INFO: Setting localization for the key: gui.plans.pala to Pala
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding recipe for Fundente
+INFO: Adding item 'Walnut Log' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding item 'Acacia' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding item 'Álamo' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding item 'Fresno' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding item 'Picea' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding item 'Sicomoro' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding item 'Olmo Blanco' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding item 'Cedro Blanco' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding item 'Sauce' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding item 'Pino' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding item 'Capoc' with 'Agua fresca' to barrel yeilding 'Tanino'
+INFO: Adding recipe for Lapis Shard
+INFO: Removing 1 recipes
+INFO: Adding recipe for Photovoltaic Cell
+INFO: Adding item 'Arcilla' to the Quern to yeild 'Polvo de Caolinita'
+INFO: Adding item 'Carbón Vegetal' to the Quern to yeild 'Polvo de Grafito'
+INFO: Adding item 'Carbón' to the Quern to yeild 'Polvo de Grafito'
+INFO: Adding recipe for Lana negra
+INFO: Adding recipe for Tinte Verde
+INFO: Adding recipe for Lana verde
+INFO: Adding recipe for Rosa Roja
+INFO: Removing 3 recipes
+INFO: Adding recipe for Lingote de Hierro forjado
+INFO: Setting max stack size of  Bismuto Sin Trabajar to 1
+INFO: Setting max stack size of  Bronce de Bismuto Sin Trabajar to 1
+INFO: Setting max stack size of  Bronce Negro Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Negro Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Azul Sin Trabajar to 1
+INFO: Setting max stack size of  Latón Sin Trabajar to 1
+INFO: Setting max stack size of  Bronce Sin Trabajar to 1
+INFO: Setting max stack size of  Cobre Sin Trabajar to 1
+INFO: Setting max stack size of  Oro Sin Trabajar to 1
+INFO: Setting max stack size of  Hierro forjado Sin Trabajar to 1
+INFO: Setting max stack size of  Plomo Sin Trabajar to 1
+INFO: Setting max stack size of  Niquel Sin Trabajar to 1
+INFO: Setting max stack size of  Arrabio Sin Trabajar to 1
+INFO: Setting max stack size of  Platino Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Rojo Sin Trabajar to 1
+INFO: Setting max stack size of  Oro Rojo Sin Trabajar to 1
+INFO: Setting max stack size of  Plata Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Sin Trabajar to 1
+INFO: Setting max stack size of  Plata de Ley Sin Trabajar to 1
+INFO: Setting max stack size of  Estaño Sin Trabajar to 1
+INFO: Setting max stack size of  Zinc Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Negro Carbonizado Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Azul Débil Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Azul Carbonizado Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Rojo Débil Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Rojo Carbonizado Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Débil Sin Trabajar to 1
+INFO: Setting max stack size of  Acero Carbonizado Sin Trabajar to 1
+INFO: Setting max stack size of  Sin Trabajar: Desconocido to 1
+INFO: Removing 'Placa de Cobre' to anvil yeild 'Copper Lantern Core'
+INFO: Adding 'Placa de Cobre' to anvil yeilding 'Copper Lantern Core'
+INFO: Removing 'Placa de Bronce' to anvil yeild 'Bronze Lantern Core'
+INFO: Adding 'Placa de Bronce' to anvil yeilding 'Bronze Lantern Core'
+INFO: Removing 'Placa de Bronce de Bismuto' to anvil yeild 'Bismuth Bronze Lantern Core'
+INFO: Adding 'Placa de Bronce de Bismuto' to anvil yeilding 'Bismuth Bronze Lantern Core'
+INFO: Removing 'Placa de Bronce Negro' to anvil yeild 'Black Bronze Lantern Core'
+INFO: Adding 'Placa de Bronce Negro' to anvil yeilding 'Black Bronze Lantern Core'
+INFO: Removing 'Placa de Latón' to anvil yeild 'Brass Lantern Core'
+INFO: Adding 'Placa de Latón' to anvil yeilding 'Brass Lantern Core'
+INFO: Removing 'Placa de Plomo' to anvil yeild 'Lead Lantern Core'
+INFO: Adding 'Placa de Plomo' to anvil yeilding 'Lead Lantern Core'
+INFO: Removing 'Placa de Oro' to anvil yeild 'Gold Lantern Core'
+INFO: Adding 'Placa de Oro' to anvil yeilding 'Gold Lantern Core'
+INFO: Removing 'Placa de Oro Rojo' to anvil yeild 'Rose Gold Lantern Core'
+INFO: Adding 'Placa de Oro Rojo' to anvil yeilding 'Rose Gold Lantern Core'
+INFO: Removing 'Placa de Plata' to anvil yeild 'Silver Lantern Core'
+INFO: Adding 'Placa de Plata' to anvil yeilding 'Silver Lantern Core'
+INFO: Removing 'Placa de Plata de Ley' to anvil yeild 'Sterling Silver Lantern Core'
+INFO: Adding 'Placa de Plata de Ley' to anvil yeilding 'Sterling Silver Lantern Core'
+INFO: Removing 'Placa de Platino' to anvil yeild 'Platinum Lantern Core'
+INFO: Adding 'Placa de Platino' to anvil yeilding 'Platinum Lantern Core'
+INFO: Removing 'Placa de Hierro forjado' to anvil yeild 'Wrought Iron Lantern Core'
+INFO: Adding 'Placa de Hierro forjado' to anvil yeilding 'Wrought Iron Lantern Core'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Copper Trussel'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Bronze Trussel'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Bismuth Bronze Trussel'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Black Bronze Trussel'
+INFO: Removing 'Lingote de Latón' to anvil yeild 'Brass Trussel'
+INFO: Removing 'Lingote de Plomo' to anvil yeild 'Lead Trussel'
+INFO: Removing 'Lingote de Oro' to anvil yeild 'Gold Trussel'
+INFO: Removing 'Lingote de Oro Rojo' to anvil yeild 'Rose Gold Trussel'
+INFO: Removing 'Lingote de Plata' to anvil yeild 'Silver Trussel'
+INFO: Removing 'Lingote de Plata de Ley' to anvil yeild 'Sterling Silver Trussel'
+INFO: Removing 'Lingote de Platino' to anvil yeild 'Platinum Trussel'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Wrought Iron Trussel'
+INFO: Removing 'Lingote de Niquel' to anvil yeild 'Nickel Trussel'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Steel Trussel'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Black Steel Trussel'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Blue Steel Trussel'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Red Steel Trussel'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Copper Anvil Die'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Bronze Anvil Die'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Bismuth Bronze Anvil Die'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Black Bronze Anvil Die'
+INFO: Removing 'Lingote de Latón' to anvil yeild 'Brass Anvil Die'
+INFO: Removing 'Lingote de Plomo' to anvil yeild 'Lead Anvil Die'
+INFO: Removing 'Lingote de Oro' to anvil yeild 'Gold Anvil Die'
+INFO: Removing 'Lingote de Oro Rojo' to anvil yeild 'Rose Gold Anvil Die'
+INFO: Removing 'Lingote de Plata' to anvil yeild 'Silver Anvil Die'
+INFO: Removing 'Lingote de Plata de Ley' to anvil yeild 'Sterling Silver Anvil Die'
+INFO: Removing 'Lingote de Platino' to anvil yeild 'Platinum Anvil Die'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Wrought Iron Anvil Die'
+INFO: Removing 'Lingote de Niquel' to anvil yeild 'Nickel Anvil Die'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Steel Anvil Die'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Black Steel Anvil Die'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Blue Steel Anvil Die'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Red Steel Anvil Die'
+INFO: Removing 'Lingote de Bismuto' to anvil yeild 'Copper Anvil Die'
+INFO: Removing 'Lingote de Estaño' to anvil yeild 'Bronze Anvil Die'
+INFO: Removing 'Lingote de Zinc' to anvil yeild 'Bismuth Bronze Anvil Die'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Black Bronze Anvil Die'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Brass Anvil Die'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Lead Anvil Die'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Gold Anvil Die'
+INFO: Removing 'Lingote de Latón' to anvil yeild 'Rose Gold Anvil Die'
+INFO: Removing 'Lingote de Plomo' to anvil yeild 'Silver Anvil Die'
+INFO: Removing 'Lingote de Oro' to anvil yeild 'Sterling Silver Anvil Die'
+INFO: Removing 'Lingote de Oro Rojo' to anvil yeild 'Platinum Anvil Die'
+INFO: Removing 'Lingote de Plata' to anvil yeild 'Wrought Iron Anvil Die'
+INFO: Removing 'Lingote de Plata de Ley' to anvil yeild 'Nickel Anvil Die'
+INFO: Removing 'Lingote de Platino' to anvil yeild 'Steel Anvil Die'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Black Steel Anvil Die'
+INFO: Removing 'Lingote de Niquel' to anvil yeild 'Blue Steel Anvil Die'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Red Steel Anvil Die'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'item.AnvilDie.name'
+INFO: Adding 'Lingote de Bismuto' to anvil yeilding 'Bismuth Flan'
+INFO: Adding 'Lingote de Estaño' to anvil yeilding 'Tin Flan'
+INFO: Adding 'Lingote de Zinc' to anvil yeilding 'Zinc Flan'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Copper Flan'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Bronze Flan'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Bismuth Bronze Flan'
+INFO: Adding 'Lingote de Latón' to anvil yeilding 'Brass Flan'
+INFO: Adding 'Lingote de Plomo' to anvil yeilding 'Lead Flan'
+INFO: Adding 'Lingote de Oro' to anvil yeilding 'Gold Flan'
+INFO: Adding 'Lingote de Oro Rojo' to anvil yeilding 'Rose Gold Flan'
+INFO: Adding 'Lingote de Plata' to anvil yeilding 'Silver Flan'
+INFO: Adding 'Lingote de Plata de Ley' to anvil yeilding 'Sterling Silver Flan'
+INFO: Adding 'Lingote de Platino' to anvil yeilding 'Platinum Flan'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Wrought Iron Flan'
+INFO: Adding 'Lingote de Niquel' to anvil yeilding 'Nickel Flan'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Steel Flan'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Black Steel Flan'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Copper Anvil Die'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Bronze Anvil Die'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Bismuth Bronze Anvil Die'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Black Bronze Anvil Die'
+INFO: Adding 'Lingote de Latón' to anvil yeilding 'Brass Anvil Die'
+INFO: Adding 'Lingote de Plomo' to anvil yeilding 'Lead Anvil Die'
+INFO: Adding 'Lingote de Oro' to anvil yeilding 'Gold Anvil Die'
+INFO: Adding 'Lingote de Oro Rojo' to anvil yeilding 'Rose Gold Anvil Die'
+INFO: Adding 'Lingote de Plata' to anvil yeilding 'Silver Anvil Die'
+INFO: Adding 'Lingote de Plata de Ley' to anvil yeilding 'Sterling Silver Anvil Die'
+INFO: Adding 'Lingote de Platino' to anvil yeilding 'Platinum Anvil Die'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Wrought Iron Anvil Die'
+INFO: Adding 'Lingote de Niquel' to anvil yeilding 'Nickel Anvil Die'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Steel Anvil Die'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Black Steel Anvil Die'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Blue Steel Anvil Die'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Red Steel Anvil Die'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Copper Trussel'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Bronze Trussel'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Bismuth Bronze Trussel'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Black Bronze Trussel'
+INFO: Adding 'Lingote de Latón' to anvil yeilding 'Brass Trussel'
+INFO: Adding 'Lingote de Plomo' to anvil yeilding 'Lead Trussel'
+INFO: Adding 'Lingote de Oro' to anvil yeilding 'Gold Trussel'
+INFO: Adding 'Lingote de Oro Rojo' to anvil yeilding 'Rose Gold Trussel'
+INFO: Adding 'Lingote de Plata' to anvil yeilding 'Silver Trussel'
+INFO: Adding 'Lingote de Plata de Ley' to anvil yeilding 'Sterling Silver Trussel'
+INFO: Adding 'Lingote de Platino' to anvil yeilding 'Platinum Trussel'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Wrought Iron Trussel'
+INFO: Adding 'Lingote de Niquel' to anvil yeilding 'Nickel Trussel'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Steel Trussel'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Black Steel Trussel'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Blue Steel Trussel'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Red Steel Trussel'
+INFO: Removing 'Placa doble de Hierro forjado' with 'Placa doble de Hierro forjado' to anvil yeild 'Tolva'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Cabezal de Pala de Bronce de Bismuto'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Cabezal de Pala de Bronce Negro'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Cabezal de Pala de Acero Negro'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Cabezal de Pala de Bronce'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Cabezal de Pala de Cobre'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Cabezal de Pala de Acero Rojo'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Cabezal de Pala de Hierro Forjado'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Cabezal de Pala de Acero'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Pala de Acero Azul'
+INFO: Removing 'Placa doble de Cobre' to anvil yeild 'Tuyere de Cobre'
+INFO: Removing 'Placa doble de Bronce' to anvil yeild 'Tuyere de Bronce'
+INFO: Removing 'Placa doble de Bronce Negro' to anvil yeild 'Tuyere de Bronce Negro'
+INFO: Removing 'Placa doble de Bronce de Bismuto' to anvil yeild 'Tuyere de Bronce de Bismuto'
+INFO: Removing 'Placa doble de Hierro forjado' to anvil yeild 'Tuyere de Hierro forjado'
+INFO: Removing 'Placa doble de Acero' to anvil yeild 'Tuyere de Acero'
+INFO: Removing 'Placa doble de Acero Negro' to anvil yeild 'Tuyere de Acero Negro'
+INFO: Removing 'Placa doble de Acero Rojo' to anvil yeild 'Tuyere de Acero Rojo'
+INFO: Removing 'Placa doble de Acero Azul' to anvil yeild 'Tuyere de Acero Azul'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Cabezal de Pico de Bronce de Bismuto'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Cabezal de Pico de Bronce Negro'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Cabezal de Pico de Acero Negro'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Cabezal de Pico de Bronce'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Cabezal de Pico de Cobre'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Cabezal de Pico de Acero Rojo'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Cabezal de Pico de Hierro Forjado'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Cabezal de Pico de Acero'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Pico de Acero Azul'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Cabezal de Hacha de Bronce de Bismuto'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Cabezal de Hacha de Bronce Negro'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Cabezal de Hacha de Acero Negro'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Cabezal de Hacha de Bronce'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Cabezal de Hacha de Cobre'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Cabezal de Hacha de Acero Rojo'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Cabezal de Hacha de Hierro Forjado'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Cabezal de Hacha de Acero'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Hacha de Acero Azul'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Pala de Acero Azul'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Acero Azul'
+INFO: Adding 'Placa doble de Hierro forjado' with 'Placa doble de Hierro forjado' to anvil yeilding 'Tolva'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Cabezal de Pala de Bronce de Bismuto'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Cabezal de Pala de Bronce Negro'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Cabezal de Pala de Acero Negro'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Cabezal de Pala de Bronce'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Cabezal de Pala de Cobre'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Cabezal de Pala de Acero Rojo'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Cabezal de Pala de Hierro Forjado'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Cabezal de Pala de Acero'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Pala de Acero Azul'
+INFO: Adding 'Placa doble de Cobre' to anvil yeilding 'Tuyere de Cobre'
+INFO: Adding 'Placa doble de Bronce' to anvil yeilding 'Tuyere de Bronce'
+INFO: Adding 'Placa doble de Bronce Negro' to anvil yeilding 'Tuyere de Bronce Negro'
+INFO: Adding 'Placa doble de Bronce de Bismuto' to anvil yeilding 'Tuyere de Bronce de Bismuto'
+INFO: Adding 'Placa doble de Hierro forjado' to anvil yeilding 'Tuyere de Hierro forjado'
+INFO: Adding 'Placa doble de Acero' to anvil yeilding 'Tuyere de Acero'
+INFO: Adding 'Placa doble de Acero Negro' to anvil yeilding 'Tuyere de Acero Negro'
+INFO: Adding 'Placa doble de Acero Rojo' to anvil yeilding 'Tuyere de Acero Rojo'
+INFO: Adding 'Placa doble de Acero Azul' to anvil yeilding 'Tuyere de Acero Azul'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Cabezal de Pico de Bronce de Bismuto'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Cabezal de Pico de Bronce Negro'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Cabezal de Pico de Acero Negro'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Cabezal de Pico de Bronce'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Cabezal de Pico de Cobre'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Cabezal de Pico de Acero Rojo'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Cabezal de Pico de Hierro Forjado'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Cabezal de Pico de Acero'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Pico de Acero Azul'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Cabezal de Hacha de Bronce de Bismuto'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Cabezal de Hacha de Bronce Negro'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Cabezal de Hacha de Acero Negro'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Cabezal de Hacha de Bronce'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Cabezal de Hacha de Cobre'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Cabezal de Hacha de Acero Rojo'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Cabezal de Hacha de Hierro Forjado'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Cabezal de Hacha de Acero'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Hacha de Acero Azul'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Acero Azul'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Pala de Acero Azul'
+INFO: Removing 'Placa de Cobre' to anvil yeild 'Copper Lantern Core'
+INFO: Adding 'Placa de Cobre' to anvil yeilding 'Copper Lantern Core'
+INFO: Removing 'Placa de Bronce' to anvil yeild 'Bronze Lantern Core'
+INFO: Adding 'Placa de Bronce' to anvil yeilding 'Bronze Lantern Core'
+INFO: Removing 'Placa de Bronce de Bismuto' to anvil yeild 'Bismuth Bronze Lantern Core'
+INFO: Adding 'Placa de Bronce de Bismuto' to anvil yeilding 'Bismuth Bronze Lantern Core'
+INFO: Removing 'Placa de Bronce Negro' to anvil yeild 'Black Bronze Lantern Core'
+INFO: Adding 'Placa de Bronce Negro' to anvil yeilding 'Black Bronze Lantern Core'
+INFO: Removing 'Placa de Latón' to anvil yeild 'Brass Lantern Core'
+INFO: Adding 'Placa de Latón' to anvil yeilding 'Brass Lantern Core'
+INFO: Removing 'Placa de Plomo' to anvil yeild 'Lead Lantern Core'
+INFO: Adding 'Placa de Plomo' to anvil yeilding 'Lead Lantern Core'
+INFO: Removing 'Placa de Oro' to anvil yeild 'Gold Lantern Core'
+INFO: Adding 'Placa de Oro' to anvil yeilding 'Gold Lantern Core'
+INFO: Removing 'Placa de Oro Rojo' to anvil yeild 'Rose Gold Lantern Core'
+INFO: Adding 'Placa de Oro Rojo' to anvil yeilding 'Rose Gold Lantern Core'
+INFO: Removing 'Placa de Plata' to anvil yeild 'Silver Lantern Core'
+INFO: Adding 'Placa de Plata' to anvil yeilding 'Silver Lantern Core'
+INFO: Removing 'Placa de Plata de Ley' to anvil yeild 'Sterling Silver Lantern Core'
+INFO: Adding 'Placa de Plata de Ley' to anvil yeilding 'Sterling Silver Lantern Core'
+INFO: Removing 'Placa de Platino' to anvil yeild 'Platinum Lantern Core'
+INFO: Adding 'Placa de Platino' to anvil yeilding 'Platinum Lantern Core'
+INFO: Removing 'Placa de Hierro forjado' to anvil yeild 'Wrought Iron Lantern Core'
+INFO: Adding 'Placa de Hierro forjado' to anvil yeilding 'Wrought Iron Lantern Core'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Copper Trussel'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Bronze Trussel'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Bismuth Bronze Trussel'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Black Bronze Trussel'
+INFO: Removing 'Lingote de Latón' to anvil yeild 'Brass Trussel'
+INFO: Removing 'Lingote de Plomo' to anvil yeild 'Lead Trussel'
+INFO: Removing 'Lingote de Oro' to anvil yeild 'Gold Trussel'
+INFO: Removing 'Lingote de Oro Rojo' to anvil yeild 'Rose Gold Trussel'
+INFO: Removing 'Lingote de Plata' to anvil yeild 'Silver Trussel'
+INFO: Removing 'Lingote de Plata de Ley' to anvil yeild 'Sterling Silver Trussel'
+INFO: Removing 'Lingote de Platino' to anvil yeild 'Platinum Trussel'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Wrought Iron Trussel'
+INFO: Removing 'Lingote de Niquel' to anvil yeild 'Nickel Trussel'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Steel Trussel'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Black Steel Trussel'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Blue Steel Trussel'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Red Steel Trussel'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Copper Anvil Die'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Bronze Anvil Die'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Bismuth Bronze Anvil Die'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Black Bronze Anvil Die'
+INFO: Removing 'Lingote de Latón' to anvil yeild 'Brass Anvil Die'
+INFO: Removing 'Lingote de Plomo' to anvil yeild 'Lead Anvil Die'
+INFO: Removing 'Lingote de Oro' to anvil yeild 'Gold Anvil Die'
+INFO: Removing 'Lingote de Oro Rojo' to anvil yeild 'Rose Gold Anvil Die'
+INFO: Removing 'Lingote de Plata' to anvil yeild 'Silver Anvil Die'
+INFO: Removing 'Lingote de Plata de Ley' to anvil yeild 'Sterling Silver Anvil Die'
+INFO: Removing 'Lingote de Platino' to anvil yeild 'Platinum Anvil Die'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Wrought Iron Anvil Die'
+INFO: Removing 'Lingote de Niquel' to anvil yeild 'Nickel Anvil Die'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Steel Anvil Die'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Black Steel Anvil Die'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Blue Steel Anvil Die'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Red Steel Anvil Die'
+INFO: Removing 'Lingote de Bismuto' to anvil yeild 'Copper Anvil Die'
+INFO: Removing 'Lingote de Estaño' to anvil yeild 'Bronze Anvil Die'
+INFO: Removing 'Lingote de Zinc' to anvil yeild 'Bismuth Bronze Anvil Die'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Black Bronze Anvil Die'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Brass Anvil Die'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Lead Anvil Die'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Gold Anvil Die'
+INFO: Removing 'Lingote de Latón' to anvil yeild 'Rose Gold Anvil Die'
+INFO: Removing 'Lingote de Plomo' to anvil yeild 'Silver Anvil Die'
+INFO: Removing 'Lingote de Oro' to anvil yeild 'Sterling Silver Anvil Die'
+INFO: Removing 'Lingote de Oro Rojo' to anvil yeild 'Platinum Anvil Die'
+INFO: Removing 'Lingote de Plata' to anvil yeild 'Wrought Iron Anvil Die'
+INFO: Removing 'Lingote de Plata de Ley' to anvil yeild 'Nickel Anvil Die'
+INFO: Removing 'Lingote de Platino' to anvil yeild 'Steel Anvil Die'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Black Steel Anvil Die'
+INFO: Removing 'Lingote de Niquel' to anvil yeild 'Blue Steel Anvil Die'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Red Steel Anvil Die'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'item.AnvilDie.name'
+INFO: Adding 'Lingote de Bismuto' to anvil yeilding 'Bismuth Flan'
+INFO: Adding 'Lingote de Estaño' to anvil yeilding 'Tin Flan'
+INFO: Adding 'Lingote de Zinc' to anvil yeilding 'Zinc Flan'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Copper Flan'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Bronze Flan'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Bismuth Bronze Flan'
+INFO: Adding 'Lingote de Latón' to anvil yeilding 'Brass Flan'
+INFO: Adding 'Lingote de Plomo' to anvil yeilding 'Lead Flan'
+INFO: Adding 'Lingote de Oro' to anvil yeilding 'Gold Flan'
+INFO: Adding 'Lingote de Oro Rojo' to anvil yeilding 'Rose Gold Flan'
+INFO: Adding 'Lingote de Plata' to anvil yeilding 'Silver Flan'
+INFO: Adding 'Lingote de Plata de Ley' to anvil yeilding 'Sterling Silver Flan'
+INFO: Adding 'Lingote de Platino' to anvil yeilding 'Platinum Flan'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Wrought Iron Flan'
+INFO: Adding 'Lingote de Niquel' to anvil yeilding 'Nickel Flan'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Steel Flan'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Black Steel Flan'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Copper Anvil Die'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Bronze Anvil Die'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Bismuth Bronze Anvil Die'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Black Bronze Anvil Die'
+INFO: Adding 'Lingote de Latón' to anvil yeilding 'Brass Anvil Die'
+INFO: Adding 'Lingote de Plomo' to anvil yeilding 'Lead Anvil Die'
+INFO: Adding 'Lingote de Oro' to anvil yeilding 'Gold Anvil Die'
+INFO: Adding 'Lingote de Oro Rojo' to anvil yeilding 'Rose Gold Anvil Die'
+INFO: Adding 'Lingote de Plata' to anvil yeilding 'Silver Anvil Die'
+INFO: Adding 'Lingote de Plata de Ley' to anvil yeilding 'Sterling Silver Anvil Die'
+INFO: Adding 'Lingote de Platino' to anvil yeilding 'Platinum Anvil Die'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Wrought Iron Anvil Die'
+INFO: Adding 'Lingote de Niquel' to anvil yeilding 'Nickel Anvil Die'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Steel Anvil Die'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Black Steel Anvil Die'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Blue Steel Anvil Die'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Red Steel Anvil Die'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Copper Trussel'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Bronze Trussel'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Bismuth Bronze Trussel'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Black Bronze Trussel'
+INFO: Adding 'Lingote de Latón' to anvil yeilding 'Brass Trussel'
+INFO: Adding 'Lingote de Plomo' to anvil yeilding 'Lead Trussel'
+INFO: Adding 'Lingote de Oro' to anvil yeilding 'Gold Trussel'
+INFO: Adding 'Lingote de Oro Rojo' to anvil yeilding 'Rose Gold Trussel'
+INFO: Adding 'Lingote de Plata' to anvil yeilding 'Silver Trussel'
+INFO: Adding 'Lingote de Plata de Ley' to anvil yeilding 'Sterling Silver Trussel'
+INFO: Adding 'Lingote de Platino' to anvil yeilding 'Platinum Trussel'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Wrought Iron Trussel'
+INFO: Adding 'Lingote de Niquel' to anvil yeilding 'Nickel Trussel'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Steel Trussel'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Black Steel Trussel'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Blue Steel Trussel'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Red Steel Trussel'
+INFO: Removing 'Placa doble de Hierro forjado' with 'Placa doble de Hierro forjado' to anvil yeild 'Tolva'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Cabezal de Pala de Bronce de Bismuto'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Cabezal de Pala de Bronce Negro'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Cabezal de Pala de Acero Negro'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Cabezal de Pala de Bronce'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Cabezal de Pala de Cobre'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Cabezal de Pala de Acero Rojo'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Cabezal de Pala de Hierro Forjado'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Cabezal de Pala de Acero'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Pala de Acero Azul'
+INFO: Removing 'Placa doble de Cobre' to anvil yeild 'Tuyere de Cobre'
+INFO: Removing 'Placa doble de Bronce' to anvil yeild 'Tuyere de Bronce'
+INFO: Removing 'Placa doble de Bronce Negro' to anvil yeild 'Tuyere de Bronce Negro'
+INFO: Removing 'Placa doble de Bronce de Bismuto' to anvil yeild 'Tuyere de Bronce de Bismuto'
+INFO: Removing 'Placa doble de Hierro forjado' to anvil yeild 'Tuyere de Hierro forjado'
+INFO: Removing 'Placa doble de Acero' to anvil yeild 'Tuyere de Acero'
+INFO: Removing 'Placa doble de Acero Negro' to anvil yeild 'Tuyere de Acero Negro'
+INFO: Removing 'Placa doble de Acero Rojo' to anvil yeild 'Tuyere de Acero Rojo'
+INFO: Removing 'Placa doble de Acero Azul' to anvil yeild 'Tuyere de Acero Azul'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Cabezal de Pico de Bronce de Bismuto'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Cabezal de Pico de Bronce Negro'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Cabezal de Pico de Acero Negro'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Cabezal de Pico de Bronce'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Cabezal de Pico de Cobre'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Cabezal de Pico de Acero Rojo'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Cabezal de Pico de Hierro Forjado'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Cabezal de Pico de Acero'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Pico de Acero Azul'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Cabezal de Hacha de Bronce de Bismuto'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Cabezal de Hacha de Bronce Negro'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Cabezal de Hacha de Acero Negro'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Cabezal de Hacha de Bronce'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Cabezal de Hacha de Cobre'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Cabezal de Hacha de Acero Rojo'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Cabezal de Hacha de Hierro Forjado'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Cabezal de Hacha de Acero'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Hacha de Acero Azul'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Pala de Acero Azul'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Acero Azul'
+INFO: Adding 'Placa doble de Hierro forjado' with 'Placa doble de Hierro forjado' to anvil yeilding 'Tolva'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Cabezal de Pala de Bronce de Bismuto'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Cabezal de Pala de Bronce Negro'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Cabezal de Pala de Acero Negro'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Cabezal de Pala de Bronce'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Cabezal de Pala de Cobre'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Cabezal de Pala de Acero Rojo'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Cabezal de Pala de Hierro Forjado'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Cabezal de Pala de Acero'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Pala de Acero Azul'
+INFO: Adding 'Placa doble de Cobre' to anvil yeilding 'Tuyere de Cobre'
+INFO: Adding 'Placa doble de Bronce' to anvil yeilding 'Tuyere de Bronce'
+INFO: Adding 'Placa doble de Bronce Negro' to anvil yeilding 'Tuyere de Bronce Negro'
+INFO: Adding 'Placa doble de Bronce de Bismuto' to anvil yeilding 'Tuyere de Bronce de Bismuto'
+INFO: Adding 'Placa doble de Hierro forjado' to anvil yeilding 'Tuyere de Hierro forjado'
+INFO: Adding 'Placa doble de Acero' to anvil yeilding 'Tuyere de Acero'
+INFO: Adding 'Placa doble de Acero Negro' to anvil yeilding 'Tuyere de Acero Negro'
+INFO: Adding 'Placa doble de Acero Rojo' to anvil yeilding 'Tuyere de Acero Rojo'
+INFO: Adding 'Placa doble de Acero Azul' to anvil yeilding 'Tuyere de Acero Azul'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Cabezal de Pico de Bronce de Bismuto'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Cabezal de Pico de Bronce Negro'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Cabezal de Pico de Acero Negro'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Cabezal de Pico de Bronce'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Cabezal de Pico de Cobre'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Cabezal de Pico de Acero Rojo'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Cabezal de Pico de Hierro Forjado'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Cabezal de Pico de Acero'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Pico de Acero Azul'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Cabezal de Hacha de Bronce de Bismuto'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Cabezal de Hacha de Bronce Negro'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Cabezal de Hacha de Acero Negro'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Cabezal de Hacha de Bronce'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Cabezal de Hacha de Cobre'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Cabezal de Hacha de Acero Rojo'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Cabezal de Hacha de Hierro Forjado'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Cabezal de Hacha de Acero'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Hacha de Acero Azul'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Acero Azul'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Pala de Acero Azul'
