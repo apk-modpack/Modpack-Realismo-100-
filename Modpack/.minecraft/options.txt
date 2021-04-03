@@ -3,7 +3,7 @@ mouseSensitivity:0.44366196
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:7
+renderDistance:6
 guiScale:0
 particles:2
 bobView:false
@@ -14,7 +14,7 @@ fboEnable:true
 difficulty:0
 fancyGraphics:false
 ao:0
-clouds:true
+clouds:false
 resourcePacks:[]
 lastServer:artrosiko.aternos.me
 lang:es_ES
@@ -25,7 +25,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
-enableVsync:true
+enableVsync:false
 hideServerAddress:false
 advancedItemTooltips:true
 pauseOnLostFocus:true
