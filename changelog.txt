@@ -1,4 +1,5 @@
 Versión 1.12
+- Eliminado todo lo relacionado con el cemento del Industrialcraft: produce demasiado lag
 - Simplificado el forjado en yunque de todas las palas del Terrafirmacraft
 - Cambiada configuración del BuildCraft: ahora las bombas no funcionan con motores de redstone
 

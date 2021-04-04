@@ -106,4 +106,11 @@ NEI.hide(<IC2:blockMachine2:3>);
 //recipes.remove(<IC2:blockMachine2:0>);
 //NEI.hide(<IC2:blockMachine2:0>);
 
+NEI.hide(<IC2:itemFoamSprayer>);
+NEI.hide(<IC2:itemArmorCFPack:*>);
+NEI.hide(<IC2:fluidConstructionFoam>);
+NEI.hide(<IC2:itemPartCFPowder>);
+NEI.hide(<IC2:blockFoam>);
+NEI.hide(<IC2:blockReinforcedFoam>);
+
 
