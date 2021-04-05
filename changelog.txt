@@ -1,3 +1,10 @@
+Versión 1.13
+- Cambiada configuración del BadMobs
+- Cambiada configuración del Forge
+- Añadido mod ConsoleFilter
+- Eliminado mod No Bat
+- Añadido mod OptiFine
+
 Versión 1.12
 - Eliminado todo lo relacionado con el cemento del Industrialcraft: produce demasiado lag
 - Simplificado el forjado en yunque de todas las palas del Terrafirmacraft

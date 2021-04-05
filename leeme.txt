@@ -1,4 +1,4 @@
-MODPACK REALISMO 100% - VERSION 1.12
+MODPACK REALISMO 100% - VERSION 1.13
 -------------------------------------
 
 Este modpack está preparado para ser ejecutado desde cuaquier carpeta,
