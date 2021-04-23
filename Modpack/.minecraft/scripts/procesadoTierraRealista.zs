@@ -9,7 +9,7 @@ var tierraRara=<customthings:item:2>.withTag({display: {Name: "Rare Ore Dirt", L
 mods.gregtech.Sifter.addRecipe([<gregtech:gt.metaitem.01:31>,<gregtech:gt.metaitem.01:98>,<gregtech:gt.metaitem.01:19>,<gregtech:gt.metaitem.01:375>,<gregtech:gt.metaitem.01:500>], tierraRara, [2000,2000,2000,2000,2000], 600, 64);
 var tierraEpica=<customthings:item:3>.withTag({display: {Name: "Epic Ore Dirt", Lore: ["This dirt has an epic composition"]}});
 //OutputArray, InputStack, OutputArrayChances, Time in Ticks, EnergyUsage
-mods.gregtech.Sifter.addRecipe([<gregtech:gt.metaitem.01:981>,<gregtech:gt.metaitem.01:324>,<gregtech:gt.metaitem.01:241>,<gregtech:gt.metaitem.01:100>,<gregtech:gt.metaitem.01:97>], tierraEpica, [2000,2000,2000,2000,2000], 600, 128);
+mods.gregtech.Sifter.addRecipe([<gregtech:gt.metaitem.01:981>,<gregtech:gt.metaitem.01:324>,<gregtech:gt.metaitem.01:241>,<gregtech:gt.metaitem.01:100>,<gregtech:gt.metaitem.01:97>,<gregtech:gt.metaitem.01:506>], tierraEpica, [1666,1666,1666,1666,1666,1666], 600, 128);
 var tierra=<ore:blockDirt>;
 //OutputArray, InputStack, OutputArrayChances, Time in Ticks, EnergyUsage
 mods.gregtech.Sifter.addRecipe([tierraComun,tierraNoComun,tierraRara,tierraEpica], tierra, [2000,1000,500,100], 600, 16);

@@ -1,3 +1,12 @@
+Versión 1.15
+- Gregtech actualizado
+- Not Enough Items actualizado
+- Railcraft actualizado
+- GTTweaker actualizado
+- NEIaddons actualizado
+- Parcheados los crafteos necesarios para el Good Electronic Circuit
+- Simplificado el forjado en yunque de las guadañas (scythe)
+
 Versión 1.14
 - Añadido mod TickEntities
 

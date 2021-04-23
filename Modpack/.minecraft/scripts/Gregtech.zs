@@ -135,3 +135,6 @@ recipes.addShaped(<gregtech:gt.metaitem.01:32307>,[[<ore:craftingToolHardHammer>
 recipes.addShaped(<gregtech:gt.metaitem.01:32300>,[[<ore:craftingToolHardHammer>.transformDamage(),<ore:craftingToolFile>.transformDamage(),null],[<ore:plateSteel>,<ore:plateSteel>,null],[<ore:plateSteel>,<ore:plateSteel>,null]]);
 //molde placa
 recipes.addShaped(<gregtech:gt.metaitem.01:32301>,[[null,<ore:craftingToolHardHammer>.transformDamage(),null],[null,<gregtech:gt.metaitem.01:32300>,null],[null,null,null]]);
+
+
+

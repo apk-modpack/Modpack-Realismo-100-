@@ -3,6 +3,7 @@ INFO: MineTweaker: Building registry
 INFO: MineTweaker: Sucessfully built item registry
 INFO: Adding command minetweaker
 INFO: Adding minetweaker command mfr
+INFO: Adding recipe for Pólvora
 INFO: Adding Tablas de Abeto to ore dictionary entry plankWood
 INFO: Adding recipe for Carbón
 INFO: Adding recipe for Carbón
@@ -362,12 +363,12 @@ INFO: Adding recipe for Pedernal
 INFO: Adding recipe for Lingote de Hierro forjado
 INFO: Adding recipe for Vacuum Tube
 INFO: Adding recipe for Vacuum Tube
-INFO: Adding assembler recipe with fluid Support for <gregtech:gt.metaitem.01:32700>
-INFO: Adding assembler recipe with fluid Support for <gregtech:gt.metaitem.01:32700>
+INFO: Adding assembler recipe for <gregtech:gt.metaitem.01:32700>
+INFO: Adding assembler recipe for <gregtech:gt.metaitem.01:32700>
 INFO: Adding recipe for Resistor
 INFO: Adding recipe for Resistor
-INFO: Adding assembler recipe with fluid Support for <gregtech:gt.metaitem.01:32716>
-INFO: Adding assembler recipe with fluid Support for <gregtech:gt.metaitem.01:32716>
+INFO: Adding assembler recipe for <gregtech:gt.metaitem.01:32716>
+INFO: Adding assembler recipe for <gregtech:gt.metaitem.01:32716>
 INFO: Adding recipe for Circuit Board
 INFO: Adding alloy smelter recipe for <gregtech:gt.metaitem.03:32012>
 INFO: Adding recipe for Mold (Ball)
@@ -420,6 +421,12 @@ INFO: Adding recipe for Tinte Azul
 INFO: Adding recipe for Tinte Azul
 INFO: Removing 1 recipes
 INFO: Adding recipe for Bloque arcilla
+INFO: Adding recipe for Good Electronic Circuit
+INFO: Adding recipe for Diode
+INFO: Adding recipe for Diode
+INFO: Adding recipe for Diode
+INFO: Adding recipe for Diode
+INFO: Adding assembler recipe for <gregtech:gt.metaitem.01:32715>
 INFO: Adding Sifter recipe for <customthings:item>.withTag({display: {Lore: ["This dirt has a common composition"], Name: "Common Ore Dirt"}})
 INFO: Adding Sifter recipe for <customthings:item:1>.withTag({display: {Lore: ["This dirt has an uncommon composition"], Name: "Uncommon Ore Dirt"}})
 INFO: Adding Sifter recipe for <customthings:item:2>.withTag({display: {Lore: ["This dirt has a rare composition"], Name: "Rare Ore Dirt"}})
@@ -428,7 +435,7 @@ INFO: Adding Sifter recipe for <ore:blockDirt>
 INFO: Adding Sifter recipe for <gregtech:gt.metaitem.01:2299>
 INFO: Adding item 'Fertilizante' with 'Base Potash Liquor' to barrel yeilding 'Polvo de Salitre'
 INFO: Adding item 'Fundente' with 'Fertilizante desnitrado' to barrel yeilding 'Polvo de Azufre'
-INFO: Removing 12 recipes
+INFO: Removing 13 recipes
 INFO: Adding recipe for Pólvora
 INFO: Adding recipe for Polvo de Blaze
 INFO: Adding recipe for Amarre de Madera
@@ -465,6 +472,7 @@ INFO: Adding plan 'tolva'
 INFO: Adding plan 'hacha'
 INFO: Adding plan 'tuyere2'
 INFO: Adding plan 'pala'
+INFO: Adding plan 'guadana'
 INFO: Setting localization for the key: gui.plans.pico to Pico
 INFO: Setting localization for the key: gui.plans.martillo to Martillo
 INFO: Setting localization for the key: gui.plans.pala to Pala
@@ -472,6 +480,7 @@ INFO: Setting localization for the key: gui.plans.tolva to Tolva
 INFO: Setting localization for the key: gui.plans.hacha to Hacha
 INFO: Setting localization for the key: gui.plans.tuyere2 to Tuyere
 INFO: Setting localization for the key: gui.plans.pala to Pala
+INFO: Setting localization for the key: gui.plans.guadana to GuadaÃ±a
 INFO: Adding recipe for Fundente
 INFO: Adding recipe for Fundente
 INFO: Adding recipe for Fundente
@@ -705,6 +714,15 @@ INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Cabezal de Hacha de Acero
 INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Cabezal de Hacha de Hierro Forjado'
 INFO: Removing 'Lingote de Acero' to anvil yeild 'Cabezal de Hacha de Acero'
 INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Hacha de Acero Azul'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Cabezal de Guadaña de Bronce de Bismuto'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Cabezal de Guadaña de Bronce Negro'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Cabezal de Guadaña de Acero Negro'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Cabezal de Guadaña de Bronce'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Cabezal de Guadaña de Cobre'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Cabezal de Guadaña de Acero Rojo'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Cabezal de Guadaña de Hierro Forjado'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Cabezal de Guadaña de Acero'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Guadaña de Acero Azul'
 INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Pala de Acero Azul'
 INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Acero Azul'
 INFO: Adding 'Placa doble de Hierro forjado' with 'Placa doble de Hierro forjado' to anvil yeilding 'Tolva'
@@ -744,6 +762,15 @@ INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Cabezal de Hacha de Acer
 INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Cabezal de Hacha de Hierro Forjado'
 INFO: Adding 'Lingote de Acero' to anvil yeilding 'Cabezal de Hacha de Acero'
 INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Hacha de Acero Azul'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Cabezal de Guadaña de Bronce de Bismuto'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Cabezal de Guadaña de Bronce Negro'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Cabezal de Guadaña de Acero Negro'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Cabezal de Guadaña de Bronce'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Cabezal de Guadaña de Cobre'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Cabezal de Guadaña de Acero Rojo'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Cabezal de Guadaña de Hierro Forjado'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Cabezal de Guadaña de Acero'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Guadaña de Acero Azul'
 INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Acero Azul'
 INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Pala de Acero Azul'
 INFO: Removing 'Placa de Cobre' to anvil yeild 'Copper Lantern Core'
@@ -910,6 +937,15 @@ INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Cabezal de Hacha de Acero
 INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Cabezal de Hacha de Hierro Forjado'
 INFO: Removing 'Lingote de Acero' to anvil yeild 'Cabezal de Hacha de Acero'
 INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Hacha de Acero Azul'
+INFO: Removing 'Lingote de Bronce de Bismuto' to anvil yeild 'Cabezal de Guadaña de Bronce de Bismuto'
+INFO: Removing 'Lingote de Bronce Negro' to anvil yeild 'Cabezal de Guadaña de Bronce Negro'
+INFO: Removing 'Lingote de Acero Negro' to anvil yeild 'Cabezal de Guadaña de Acero Negro'
+INFO: Removing 'Lingote de Bronce' to anvil yeild 'Cabezal de Guadaña de Bronce'
+INFO: Removing 'Lingote de Cobre' to anvil yeild 'Cabezal de Guadaña de Cobre'
+INFO: Removing 'Lingote de Acero Rojo' to anvil yeild 'Cabezal de Guadaña de Acero Rojo'
+INFO: Removing 'Lingote de Hierro forjado' to anvil yeild 'Cabezal de Guadaña de Hierro Forjado'
+INFO: Removing 'Lingote de Acero' to anvil yeild 'Cabezal de Guadaña de Acero'
+INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Guadaña de Acero Azul'
 INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Pala de Acero Azul'
 INFO: Removing 'Lingote de Acero Azul' to anvil yeild 'Cabezal de Acero Azul'
 INFO: Adding 'Placa doble de Hierro forjado' with 'Placa doble de Hierro forjado' to anvil yeilding 'Tolva'
@@ -949,5 +985,14 @@ INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Cabezal de Hacha de Acer
 INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Cabezal de Hacha de Hierro Forjado'
 INFO: Adding 'Lingote de Acero' to anvil yeilding 'Cabezal de Hacha de Acero'
 INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Hacha de Acero Azul'
+INFO: Adding 'Lingote de Bronce de Bismuto' to anvil yeilding 'Cabezal de Guadaña de Bronce de Bismuto'
+INFO: Adding 'Lingote de Bronce Negro' to anvil yeilding 'Cabezal de Guadaña de Bronce Negro'
+INFO: Adding 'Lingote de Acero Negro' to anvil yeilding 'Cabezal de Guadaña de Acero Negro'
+INFO: Adding 'Lingote de Bronce' to anvil yeilding 'Cabezal de Guadaña de Bronce'
+INFO: Adding 'Lingote de Cobre' to anvil yeilding 'Cabezal de Guadaña de Cobre'
+INFO: Adding 'Lingote de Acero Rojo' to anvil yeilding 'Cabezal de Guadaña de Acero Rojo'
+INFO: Adding 'Lingote de Hierro forjado' to anvil yeilding 'Cabezal de Guadaña de Hierro Forjado'
+INFO: Adding 'Lingote de Acero' to anvil yeilding 'Cabezal de Guadaña de Acero'
+INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Guadaña de Acero Azul'
 INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Acero Azul'
 INFO: Adding 'Lingote de Acero Azul' to anvil yeilding 'Cabezal de Pala de Acero Azul'

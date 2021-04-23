@@ -81,6 +81,7 @@ mods.Terrafirmacraft.Anvil.addPlanRecipe("tolva", 1,1,1);
 mods.Terrafirmacraft.Anvil.addPlanRecipe("hacha", 1,1,1);
 mods.Terrafirmacraft.Anvil.addPlanRecipe("tuyere2", 1,1,1);
 mods.Terrafirmacraft.Anvil.addPlanRecipe("pala", 1,1,1);
+mods.Terrafirmacraft.Anvil.addPlanRecipe("guadana", 1,1,1);
 
 game.setLocalization("gui.plans.pico", "Pico");
 game.setLocalization("gui.plans.martillo", "Martillo");
@@ -89,6 +90,7 @@ game.setLocalization("gui.plans.tolva", "Tolva");
 game.setLocalization("gui.plans.hacha", "Hacha");
 game.setLocalization("gui.plans.tuyere2", "Tuyere");
 game.setLocalization("gui.plans.pala", "Pala");
+game.setLocalization("gui.plans.guadana", "Guadaña");
 
 //Remove Anvil Recipe
 //-----------------------------------------------
@@ -135,6 +137,18 @@ mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Red Steel Axe
 mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Wrought Iron Axe Head>,<terrafirmacraft:item.Wrought Iron Ingot>,null,"axe",3);
 mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Steel Axe Head>,<terrafirmacraft:item.Steel Ingot>,null,"axe",4);
 mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Blue Steel Axe Head>,<terrafirmacraft:item.Blue Steel Ingot>,null,"axe",6);
+
+
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Bismuth Bronze Scythe Blade>,<terrafirmacraft:item.Bismuth Bronze Ingot>,null,"scythe",2);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Black Bronze Scythe Blade>,<terrafirmacraft:item.Black Bronze Ingot>,null,"scythe",2);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Black Steel Scythe Blade>,<terrafirmacraft:item.Black Steel Ingot>,null,"scythe",5);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Bronze Scythe Blade>,<terrafirmacraft:item.Bronze Ingot>,null,"scythe",2);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Copper Scythe Blade>,<terrafirmacraft:item.Copper Ingot>,null,"scythe",1);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Red Steel Scythe Blade>,<terrafirmacraft:item.Red Steel Ingot>,null,"scythe",6);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Wrought Iron Scythe Blade>,<terrafirmacraft:item.Wrought Iron Ingot>,null,"scythe",3);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Steel Scythe Blade>,<terrafirmacraft:item.Steel Ingot>,null,"scythe",4);
+mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Blue Steel Scythe Blade>,<terrafirmacraft:item.Blue Steel Ingot>,null,"scythe",6);
+
 
 mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraft:item.Blue Steel Shovel Head>,<terrafirmacraft:item.Blue Steel Ingot>,null,"shovel",6);
 
@@ -187,6 +201,16 @@ mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Red Steel Axe He
 mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Wrought Iron Axe Head>,<terrafirmacraft:item.Wrought Iron Ingot>,"hacha",3);
 mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Steel Axe Head>,<terrafirmacraft:item.Steel Ingot>,"hacha",4);
 mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Blue Steel Axe Head>,<terrafirmacraft:item.Blue Steel Ingot>,"hacha",6);
+
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Bismuth Bronze Scythe Blade>,<terrafirmacraft:item.Bismuth Bronze Ingot>,"guadana",2);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Black Bronze Scythe Blade>,<terrafirmacraft:item.Black Bronze Ingot>,"guadana",2);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Black Steel Scythe Blade>,<terrafirmacraft:item.Black Steel Ingot>,"guadana",5);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Bronze Scythe Blade>,<terrafirmacraft:item.Bronze Ingot>,"guadana",2);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Copper Scythe Blade>,<terrafirmacraft:item.Copper Ingot>,"guadana",1);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Red Steel Scythe Blade>,<terrafirmacraft:item.Red Steel Ingot>,"guadana",6);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Wrought Iron Scythe Blade>,<terrafirmacraft:item.Wrought Iron Ingot>,"guadana",3);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Steel Scythe Blade>,<terrafirmacraft:item.Steel Ingot>,"guadana",4);
+mods.Terrafirmacraft.Anvil.addAnvilRecipe(<terrafirmacraft:item.Blue Steel Scythe Blade>,<terrafirmacraft:item.Blue Steel Ingot>,"guadana",6);
 
 
 

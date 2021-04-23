@@ -9540,6 +9540,7 @@ languagefile {
     S:gt.blockmachines.fusioncomputer.tier.09.name=FusionTek MK IV
     S:gt.blockmachines.garbagecollector.01.tier.single.name=JVM Garbage Collector
     S:gt.blockmachines.generatorarray.controller.tier.01.name=Large Generator Array
+    S:gt.blockmachines.gt_frame.desc.format=Just something you can put covers on.
     S:gt.blockmachines.gt_frame_adamantium.name=Adamantium Frame Box
     S:gt.blockmachines.gt_frame_alduorite.name=%material Frame Box
     S:gt.blockmachines.gt_frame_aluminium.name=Aluminium Frame Box
