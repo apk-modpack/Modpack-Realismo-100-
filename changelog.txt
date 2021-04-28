@@ -6,6 +6,9 @@ Versión 1.15
 - NEIaddons actualizado
 - Parcheados los crafteos necesarios para el Good Electronic Circuit
 - Simplificado el forjado en yunque de las guadañas (scythe)
+- ModTweaker2 añadido
+- Dynamic Transport actualizado
+- Cambiada configuración del Server Properties
 
 Versión 1.14
 - Añadido mod TickEntities
