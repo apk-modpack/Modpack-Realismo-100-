@@ -1,0 +1,263 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 5/2/21 6:56 PM
+Description: Rendering screen
+
+java.util.ConcurrentModificationException
+	at java.util.LinkedList$ListItr.checkForComodification(Unknown Source)
+	at java.util.LinkedList$ListItr.next(Unknown Source)
+	at codechicken.nei.guihook.GuiContainerManager.renderToolTips(GuiContainerManager.java:401)
+	at net.minecraft.client.gui.inventory.GuiContainer.func_73863_a(GuiContainer.java:166)
+	at net.minecraft.client.renderer.InventoryEffectRenderer.func_73863_a(InventoryEffectRenderer.java:38)
+	at com.bioxx.tfc.GUI.GuiInventoryTFC.func_73863_a(GuiInventoryTFC.java:189)
+	at net.minecraft.client.renderer.EntityRenderer.func_78480_b(EntityRenderer.java:1455)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1001)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:898)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at java.util.LinkedList$ListItr.checkForComodification(Unknown Source)
+	at java.util.LinkedList$ListItr.next(Unknown Source)
+	at codechicken.nei.guihook.GuiContainerManager.renderToolTips(GuiContainerManager.java:401)
+	at net.minecraft.client.gui.inventory.GuiContainer.func_73863_a(GuiContainer.java:166)
+	at net.minecraft.client.renderer.InventoryEffectRenderer.func_73863_a(InventoryEffectRenderer.java:38)
+	at com.bioxx.tfc.GUI.GuiInventoryTFC.func_73863_a(GuiInventoryTFC.java:189)
+	at net.minecraft.client.renderer.EntityRenderer.func_78480_b(EntityRenderer.java:1455)
+
+-- Screen render details --
+Details:
+	Screen name: com.bioxx.tfc.GUI.GuiInventoryTFC
+	Mouse location: Scaled: (328, 71). Absolute: (657, 337)
+	Screen size: Scaled: (427, 240). Absolute: (854, 480). Scale factor of 2
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['apk'/31, l='MpServer', x=-1127.33, y=145.62, z=-7677.94]]
+	Chunk stats: MultiplayerChunkCache: 9, 9
+	Level seed: 5111690552034629489
+	Level generator: ID 00 - TFCDefault, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (-24,148,-6636), Chunk: (at 8,9,4 in -2,-415; contains blocks -32,0,-6640 to -17,255,-6625), Region: (-1,-13; contains chunks -32,-416 to -1,-385, blocks -512,0,-6656 to -1,255,-6145)
+	Level time: 12918209 game time, 13591402 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Forced entities: 2 total; [EntityClientPlayerMP['apk'/31, l='MpServer', x=-1127.33, y=145.62, z=-7677.94], EntityBlock['desconocido'/235, l='MpServer', x=-1138.75, y=144.00, z=-7651.75]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_71396_d(Minecraft.java:2444)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:919)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_231, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1118965456 bytes (1067 MB) / 2222755840 bytes (2119 MB) up to 3207856128 bytes (3059 MB)
+	JVM Flags: 8 total; -Xmx4G -Xms1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx3G
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 10, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 Optifine OptiFine_1.7.10_HD_U_E7 89 mods loaded, 89 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAA	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAA	tfc_coremod{0.79.29} [TFC[coremod]] (minecraft.jar) 
+	UCHIJAAAA	<CCTweaks ASM>{1.1.1} [<CCTweaks ASM>] (minecraft.jar) 
+	UCHIJAAAA	CodeChickenCore{1.0.7.47} [CodeChicken Core] (minecraft.jar) 
+	UCHIJAAAA	NotEnoughItems{2.1.2-GTNH} [Not Enough Items] (NotEnoughItems-1.7.10-2.1.2-GTNH-universal.jar) 
+	UCHIJAAAA	splan{2.65-1.7.10} [Server Properties for LAN] (minecraft.jar) 
+	UCHIJAAAA	tickDynamic{0.1.5} [Tick Dynamic] (minecraft.jar) 
+	UCHIJAAAA	GT++_Preloader{0.5-Beta} [GT++ Preloader] (minecraft.jar) 
+	UCHIJAAAA	FastCraft{1.25} [FastCraft] (fastcraft-1.25.jar) 
+	UCHIJAAAA	terrafirmacraft{0.79.29} [TerraFirmaCraft] (1.7.10-TerraFirmaCraft-0.79.30.925.jar) 
+	UCHIJAAAA	tfcudarymod{0.2.33} [TFC Udary Mod] (1.7.10.TFCUdaryMod-0.2.33.jar) 
+	UCHIJAAAA	securitycraft{v1.8.13} [SecurityCraft] ([1.7.10]+SecurityCraft+v1.8.13.jar) 
+	UCHIJAAAA	DecorationsTFC{1.0.20} [Decorations] ([1.7.10]Decorations-1.0.20.jar) 
+	UCHIJAAAA	lwstfc{3.9.B79} [Leather Water Sac] ([1.7.10]LeatherWaterSac-3.9.B79.jar) 
+	UCHIJAAAA	MerchantsTFC{1.1.2} [Merchants] ([1.7.10]Merchants-1.1.5.jar) 
+	UCHIJAAAA	tfcm{0.13.0} [TerraMisc] ([1.7.10]TerraMisc-0.13.0.jar) 
+	UCHIJAAAA	tfcautomatedbellows{1.1a} [AutomatedBellowsAddon] ([1.7.10]TFCAutomatedBellowsAddon-1.1a.jar) 
+	UCHIJAAAA	tfccellars{1.1} [CellarsAddon] ([1.7.10]TFCCellarsAddon-1.1.jar) 
+	UCHIJAAAA	tfcprimitivetech{1.0.1} [TFC Primitive Technology AddOn] ([1.7.10]TFCPrimitiveTechMod-1.00.03.zip) 
+	UCHIJAAAA	weightingscales{1.0} [TFC Scales] ([1.7.10]TFCScales-1.0.2.jar) 
+	UCHIJAAAA	BuildCraft|Core{7.1.23} [BuildCraft] (buildcraft-7.1.23.jar) 
+	UCHIJAAAA	BuildCraft|Transport{7.1.23} [BC Transport] (buildcraft-7.1.23.jar) 
+	UCHIJAAAA	BuildCraft|Silicon{7.1.23} [BC Silicon] (buildcraft-7.1.23.jar) 
+	UCHIJAAAA	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHIJAAAA	WailaAddonBC{1.0.5.1} [WailaAddonBC] ([1.7.10]WailaAddonBC-1.0.5.1.jar) 
+	UCHIJAAAA	animalcrate{0.01} [AnimalCrate] (animalcrate-0.1.jar) 
+	UCHIJAAAA	antiqueatlas{4.4.4} [Antique Atlas] (antiqueatlas-1.7.10-4.4.4.jar) 
+	UCHIJAAAA	MovingWorld{1.7.10-1.8.1} [Moving World] (movingworld-1.7.10-1.8.1.jar) 
+	UCHIJAAAA	ArchimedesShipsPlus{1.7.10-1.8.1} [Archimedes' Ships Plus] (archimedesshipsplus-1.7.10-1.8.1.jar) 
+	UCHIJAAAA	astikoor{1.0.0} [Astikoor] (Astikoor-Mod-1.7.10.jar) 
+	UCHIJAAAA	badmobs{1.0.1} [Bad Mobs] (BadMobs-1.0.1-1.7.10.jar) 
+	UCHIJAAAA	bdlib{1.9.4.109} [BD Lib] (bdlib-1.9.4.109-mc1.7.10.jar) 
+	UCHIJAAAA	BuildCraft|Factory{7.1.23} [BC Factory] (buildcraft-7.1.23.jar) 
+	UCHIJAAAA	BuildCraft|Robotics{7.1.23} [BC Robotics] (buildcraft-7.1.23.jar) 
+	UCHIJAAAA	BuildCraft|Energy{7.1.23} [BC Energy] (buildcraft-7.1.23.jar) 
+	UCHIJAAAA	BuildCraft|Builders{7.1.23} [BC Builders] (buildcraft-7.1.23.jar) 
+	UCHIJAAAA	ComputerCraft{1.75} [ComputerCraft] (ComputerCraft1.75.jar) 
+	UCHIJAAAA	CCTweaks{1.1.1} [CCTweaks] (CCTweaks-1.7.10-1.1.1.jar) 
+	UCHIJAAAA	chunkpregenerator{2.5.0} [Chunk Pregenerator] (Chunk+Pregenerator-V1.7.10-2.5.0.jar) 
+	UCHIJAAAA	ConsoleFilter{1.0.0} [Console Filter] (ConsoleFilter-1.7.10-1.0.0.jar) 
+	UCHIJAAAA	cookingwithtfc{0.0.7.1} [Cooking with TFC] (CookingWithTFC-1.7.10-0.0.7.1.jar) 
+	UCHIJAAAA	creativecore{1.3.14} [CreativeCore] (CreativeCore+v1.3.24+mc1.7.10.jar) 
+	UCHIJAAAA	CustomOreGen{1.2.26} [Custom Ore Generation] (Custom-Ore-Generation-Revival-Mod-1.7.10.jar) 
+	UCHIJAAAA	customitems{1.0.9b} [Meta Mod: Custom Items] (customitems-1.0.9_beta_1.7.10.jar) 
+	UCHIJAAAA	customnpcs{1.7.10d} [CustomNpcs] (CustomNPCs_1.7.10d(29oct17).jar) 
+	UCHIJAAAA	endercore{1.7.10-0.2.0.39_beta} [EnderCore] (EnderCore-1.7.10-0.2.0.39_beta.jar) 
+	UCHIJAAAA	customthings{MC1.7.10-0.0.3-55} [CustomThings] (CustomThings-MC1.7.10-0.0.3-55.jar) 
+	UCHIJAAAA	SlimevoidLib{2.0.4.7} [Slimevoid Library] (SlimevoidLibrary-2.0.4.7.jar) 
+	UCHIJAAAA	DynamicTransport{0.1.2.0} [Dynamic Transport] (DynamicTransport-0.1.2.0-hammer354-a1.jar) 
+	UCHIJAAAA	ExtendingLadder{3.1.1} [Extendable Ladders] (Extendable-Ladders-Mod-1.7.10.jar) 
+	UCHIJAAAA	FpsReducer{mc1.7.10-1.10.3} [FPS Reducer] (FpsReducer-mc1.7.10-1.10.3.jar) 
+	UCHIJAAAA	IC2{2.2.822-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.822-experimental.jar) 
+	UCHIJAAAA	advgenerators{0.9.20.123} [Advanced Generators] (generators-0.9.20.123-mc1.7.10.jar) 
+	UCHIJAAAA	gravestone{0.7.10.3} [Gravestone] (GraveStone+Mod+0.7.10.3.jar) 
+	UCHIJAAAA	Railcraft{9.12.2.0} [Railcraft] (Railcraft_1.7.10-9.12.2.0.jar) 
+	UCHIJAAAA	gregtech{MC1710} [GregTech] (gregtech-5.09.34.16.jar) 
+	UCHIJAAAA	IC2NuclearControl{2.4.1a} [Nuclear Control 2] (IC2NuclearControl-2.4.1a.jar) 
+	UCHIJAAAA	miscutils{1.7.05} [GT++] (GT-PlusPlus-1.7.05.68.jar) 
+	UCHIJAAAA	ToxicEverglades{0.1} [GT++ Toxic Everglades] (GT-PlusPlus-1.7.05.68.jar) 
+	UCHIJAAAA	Australia{0.1} [GT++ Australia] (GT-PlusPlus-1.7.05.68.jar) 
+	UCHIJAAAA	GTProspector{1.7.10-1.0a} [GTProspector] (GTProspector-1.7.10-1.0a.jar) 
+	UCHIJAAAA	GTTweaker{1.0} [GTTweaker] (GTTweaker-1.7.10-1.7.2.jar) 
+	UCHIJAAAA	guideapi{1.7.10-1.0.1-23} [Guide-API] (Guide-API-1.7.10-1.0.1-23.jar) 
+	UCHIJAAAA	Ic2Nei{1.2.1} [IC2 Crop Plugin] (IC2+Nei+Plugin+Version+1.7.10-1.2.2.jar) 
+	UCHIJAAAA	MemoryCleaner{1.0} [Memory Cleaner] (Memory Cleaner Mod 1.7.10.jar) 
+	UCHIJAAAA	MineTweaker3{3.0.10} [MineTweaker 3] (MineTweaker3-1.7.10-3.0.10B.jar) 
+	UCHIJAAAA	modtweaker2{0.9.6} [Mod Tweaker 2] (ModTweaker2-0.9.6.jar) 
+	UCHIJAAAA	cfm{3.4.7} [§9MrCrayfish's Furniture Mod] (MrCrayfishFurnitureModv3.4.7(1.7.10).jar) 
+	UCHIJAAAA	NEIAddons{1.12.14.40} [NEI Addons] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|Developer{1.12.14.40} [NEI Addons: Developer Tools] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|AppEng{1.12.14.40} [NEI Addons: Applied Energistics 2] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|Botany{1.12.14.40} [NEI Addons: Botany] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|Forestry{1.12.14.40} [NEI Addons: Forestry] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|CraftingTables{1.12.14.40} [NEI Addons: Crafting Tables] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|ExNihilo{1.12.14.40} [NEI Addons: Ex Nihilo] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	neiintegration{1.1.2} [NEI Integration] (NEIIntegration-MC1.7.10-1.1.2.jar) 
+	UCHIJAAAA	opframe{0.1} [OnlinePictureFrame] (OnlinePicFrame+v0.1+mc1.7.10.jar) 
+	UCHIJAAAA	railcraft_cos{2.1.3} [Railcraft Cosmetic Additions] (Railcraft_Cosmetics-1.7.10-v2.1.3.jar) 
+	UCHIJAAAA	ReiMinimap{1.7.10} [Rei's Minimap] (ReiMinimap-1.7.10-3.6.jar) 
+	UCHIJAAAA	SolarExpansion{1.6a} [Solar Expansion] (SolarExpansion-Basic-1.6a.jar) 
+	UCHIJAAAA	stabilizermod{3.4} [stabilizermod] (Stabilizer-3.4-1.7.10.jar) 
+	UCHIJAAAA	StacksOnStacks{{$version}} [Stacks on Stacks!] (StacksOnStacks-1.7.10-2.4.3.jar) 
+	UCHIJAAAA	TerraFirmaCraftNEIplugin{1.5.3.25} [TerraFirmaCraftNEIplugin] (TerraFirmaCraftNEIplugin-1.7.10-1.5.3.25.jar) 
+	UCHIJAAAA	TFCTweaker{1.1.4.0} [TFC Tweaker] (TFCTweaker-1.7.10-1.1.4.0.jar) 
+	UCHIJAAAA	worldedit{6.1.1} [WorldEdit] (worldedit-forge-mc1.7.10-6.1.1-dist.jar) 
+	UCHIJAAAA	YeOldeTanks{1.2.0} [Ye Olde Tanks] (YeOldeTanks-1.7.10-1.4.5.jar) 
+	UCHIJAAAA	bspkrsCore{6.15} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.15.jar) 
+	GL info: ' Vendor: 'Intel' Version: '4.0.0 - Build 10.18.10.4358' Renderer: 'Intel(R) HD Graphics 4000'
+	List of loaded APIs: 
+		* antiqueatlasapi (5.1) from antiqueatlas-1.7.10-4.4.4.jar
+		* BuildCraftAPI|blocks (1.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|blueprints (1.5) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|boards (2.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|core (2.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* BuildCraftAPI|crops (1.1) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|events (2.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|facades (1.1) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|filler (4.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|fuels (2.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|gates (4.1) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|items (1.1) from Railcraft_1.7.10-9.12.2.0.jar
+		* BuildCraftAPI|library (2.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|lists (1.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* BuildCraftAPI|power (1.3) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|recipes (3.1) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|robotics (3.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|statements (1.1) from Railcraft_1.7.10-9.12.2.0.jar
+		* BuildCraftAPI|tablet (1.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* BuildCraftAPI|tiles (1.2) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|tools (1.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* BuildCraftAPI|transport (4.1) from Railcraft_1.7.10-9.12.2.0.jar
+		* CCTweaks|API (1.1.1) from CCTweaks-1.7.10-1.1.1.jar
+		* CoFHAPI (1.7.10R1.0.2) from buildcraft-7.1.23.jar
+		* CoFHAPI|block (1.7.10R1.0.3) from SolarExpansion-Basic-1.6a.jar
+		* CoFHAPI|core (1.7.10R1.0.3) from SolarExpansion-Basic-1.6a.jar
+		* CoFHAPI|energy (1.7.10R1.0.2) from IC2NuclearControl-2.4.1a.jar
+		* CoFHAPI|inventory (1.7.10R1.0.3) from SolarExpansion-Basic-1.6a.jar
+		* CoFHAPI|items (1.7.10R1.0.3) from SolarExpansion-Basic-1.6a.jar
+		* CoFHAPI|modhelpers (1.7.10R1.0.3) from SolarExpansion-Basic-1.6a.jar
+		* CoFHAPI|tileentity (1.7.10R1.0.3) from SolarExpansion-Basic-1.6a.jar
+		* CoFHAPI|transport (1.7.10R1.0.13) from EnderCore-1.7.10-0.2.0.39_beta.jar
+		* CoFHAPI|world (1.7.10R1.0.3) from SolarExpansion-Basic-1.6a.jar
+		* ComputerCraft|API (1.75) from ComputerCraft1.75.jar
+		* ComputerCraft|API|FileSystem (1.75) from ComputerCraft1.75.jar
+		* ComputerCraft|API|Lua (1.75) from ComputerCraft1.75.jar
+		* ComputerCraft|API|Media (1.75) from ComputerCraft1.75.jar
+		* ComputerCraft|API|Peripheral (1.75) from ComputerCraft1.75.jar
+		* ComputerCraft|API|Permissions (1.75) from ComputerCraft1.75.jar
+		* ComputerCraft|API|Redstone (1.75) from ComputerCraft1.75.jar
+		* ComputerCraft|API|Turtle (1.75) from ComputerCraft1.75.jar
+		* CookingwithtfcAPI (1) from CookingWithTFC-1.7.10-0.0.7.1.jar
+		* Guide-API|API (1.7.10-1.0.1-23) from Guide-API-1.7.10-1.0.1-23.jar
+		* IC2API (1.0) from industrialcraft-2-2.2.822-experimental.jar
+		* NuclearControlAPI (v1.0.5) from IC2NuclearControl-2.4.1a.jar
+		* RailcraftAPI|bore (1.0.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|carts (1.6.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|core (1.5.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|crafting (1.0.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|electricity (2.0.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|events (1.0.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|fuel (1.0.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|helpers (1.1.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|items (1.0.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|locomotive (1.1.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|signals (2.3.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* RailcraftAPI|tracks (2.3.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* SecurityCraftAPI (1.2.2) from [1.7.10]+SecurityCraft+v1.8.13.jar
+		* ShadowMC (2.3.0) from YeOldeTanks-1.7.10-1.4.5.jar
+		* Thaumcraft|API (4.2.2.0) from Railcraft_1.7.10-9.12.2.0.jar
+		* WailaAPI (1.2) from Waila-1.5.10_1.7.10.jar
+	Launched Version: 1.7.10-Forge10.13.4.1614-1.7.10
+	LWJGL: 2.9.1
+	OpenGL: Intel(R) HD Graphics 4000 GL version 4.0.0 - Build 10.18.10.4358, Intel
+	GL Caps: Using GL 1.3 multitexturing.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Anisotropic filtering is supported and maximum anisotropy is 16.
+Shaders are available because OpenGL 2.1 is supported.
+
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: Español (España)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Anisotropic Filtering: Off (1)
+	OptiFine Version: OptiFine_1.7.10_HD_U_E7
+	Render Distance Chunks: 6
+	Mipmaps: 0
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.0.0 - Build 10.18.10.4358
+	OpenGlRenderer: Intel(R) HD Graphics 4000
+	OpenGlVendor: Intel
+	CpuCount: 4

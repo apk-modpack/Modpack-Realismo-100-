@@ -137,4 +137,5 @@ recipes.addShaped(<gregtech:gt.metaitem.01:32300>,[[<ore:craftingToolHardHammer>
 recipes.addShaped(<gregtech:gt.metaitem.01:32301>,[[null,<ore:craftingToolHardHammer>.transformDamage(),null],[null,<gregtech:gt.metaitem.01:32300>,null],[null,null,null]]);
 
 
-
+//cable aislado cobre
+recipes.addShapeless(<gregtech:gt.blockmachines:1366>,[<gregtech:gt.blockmachines:1360>,<gregtech:gt.metaitem.01:17880>]);

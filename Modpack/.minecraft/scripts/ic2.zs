@@ -22,3 +22,11 @@ recipes.remove(<IC2:fluidConstructionFoam>);
 
 recipes.remove(<IC2:itemFluidCell>);
 recipes.addShaped(<IC2:itemFluidCell>,[[null,<ore:itemCasingTin>,null],[<ore:itemCasingTin>,<ore:paneGlass>,<ore:itemCasingTin>],[null,<ore:itemCasingTin>,null]]);
+
+//transformador lv
+recipes.remove(<IC2:blockElectric:3>);
+recipes.addShaped(<IC2:blockElectric:3>,[[<gregtech:gt.metaitem.01:17809>,<IC2:itemCable:13>,<gregtech:gt.metaitem.01:17809>],[<gregtech:gt.metaitem.01:17809>,<IC2:itemRecipePart>,<gregtech:gt.metaitem.01:17809>],[<gregtech:gt.metaitem.01:17809>,<IC2:itemCable:13>,<gregtech:gt.metaitem.01:17809>]]);
+
+//batbox
+recipes.remove(<IC2:blockElectric>);
+recipes.addShaped(<IC2:blockElectric>,[[<gregtech:gt.metaitem.01:17809>,<IC2:itemCable:13>,<gregtech:gt.metaitem.01:17809>],[<IC2:itemBatREDischarged>,<IC2:itemBatREDischarged>,<IC2:itemBatREDischarged>],[<gregtech:gt.metaitem.01:17809>,<gregtech:gt.metaitem.01:17809>,<gregtech:gt.metaitem.01:17809>]]);

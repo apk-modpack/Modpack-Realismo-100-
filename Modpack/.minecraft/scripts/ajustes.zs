@@ -12,8 +12,8 @@
 
 <ore:plankWood>.add(<terrafirmacraft:planks:4>);
 
-recipes.addShapeless(<terrafirmacraft:item.coal>,[<minecraft:coal>]);
-recipes.addShapeless(<minecraft:coal>,[<terrafirmacraft:item.coal>]);
+//recipes.addShapeless(<terrafirmacraft:item.coal>,[<minecraft:coal>]);
+//recipes.addShapeless(<minecraft:coal>,[<terrafirmacraft:item.coal>]);
 
 recipes.addShapeless(<terrafirmacraft:item.coal:1>,[<minecraft:coal:1>]);
 recipes.addShapeless(<minecraft:coal:1>,[<terrafirmacraft:item.coal:1>]);

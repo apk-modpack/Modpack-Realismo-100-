@@ -29,3 +29,7 @@ recipes.addShaped(<Railcraft:machine.beta:8>,[[<ore:plateAnyIron>,<ore:plateAnyI
 <ore:gearSteel>.add(<Railcraft:part.gear:2>);
 recipes.remove(<Railcraft:machine.beta:9>);
 recipes.addShaped(<Railcraft:machine.beta:9>,[[<ore:plateSteel>,<ore:plateSteel>,<ore:plateSteel>],[null,<minecraft:glass>,null],[<ore:gearSteel>,<minecraft:piston>,<ore:gearSteel>]]);
+
+//Coke Oven
+//OutputStack, OutputFluid, InputStack, Time in Ticks
+mods.railcraft.CokeOven.addRecipe(<Railcraft:fuel.coke>, <liquid:creosote> * 500, <terrafirmacraft:item.coal>, 1800); 
