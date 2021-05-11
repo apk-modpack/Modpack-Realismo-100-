@@ -139,3 +139,25 @@ recipes.addShaped(<gregtech:gt.metaitem.01:32301>,[[null,<ore:craftingToolHardHa
 
 //cable aislado cobre
 recipes.addShapeless(<gregtech:gt.blockmachines:1366>,[<gregtech:gt.blockmachines:1360>,<gregtech:gt.metaitem.01:17880>]);
+
+
+//receta bronze * 10
+//Alloy Smelter
+//OutputStack, InputStack1, InputStack2, Time in Ticks, EnergyUsage
+mods.gregtech.AlloySmelter.addRecipe(<terrafirmacraft:item.Bronze Ingot>*10, <gregtech:gt.metaitem.01:2035>*9, <gregtech:gt.metaitem.01:2057> * 1, 160, 8);
+mods.gregtech.AlloySmelter.addRecipe(<terrafirmacraft:item.Bronze Ingot>*10, <terrafirmacraft:item.Copper Ingot>*9, <terrafirmacraft:item.Tin Ingot> * 1, 160, 8);
+
+//polvo bronze a mano
+recipes.removeShaped(<gregtech:gt.metaitem.01:2300>*4,[[<ore:dustAnyCopper>,<ore:dustAnyCopper>],[<ore:dustAnyCopper>,<ore:dustTin>]]);
+recipes.removeShaped(<gregtech:gt.metaitem.01:2300>*3,[[<gregtech:gt.metaitem.01:2840>,<gregtech:gt.metaitem.01:2840>],[<gregtech:gt.metaitem.01:2840>,<ore:dustTin>]]);
+recipes.addShapeless(<gregtech:gt.metaitem.01:2300>,[<gregtech:gt.metaitem.01:35>,<gregtech:gt.metaitem.01:35>,<gregtech:gt.metaitem.01:35>,<gregtech:gt.metaitem.01:35>,<gregtech:gt.metaitem.01:35>,<gregtech:gt.metaitem.01:35>,<gregtech:gt.metaitem.01:35>,<gregtech:gt.metaitem.01:35>,<gregtech:gt.metaitem.01:57>]);
+recipes.addShapeless(<gregtech:gt.metaitem.01:2300>*10,[<ore:dustAnyCopper>,<ore:dustAnyCopper>,<ore:dustAnyCopper>,<ore:dustAnyCopper>,<ore:dustAnyCopper>,<ore:dustAnyCopper>,<ore:dustAnyCopper>,<ore:dustAnyCopper>,<ore:dustTin>]);
+
+//Mixer
+//OutputStack, OutputFluid, InputArray, FluidInput, Time in Ticks, EnergyUsage
+//mods.gregtech.Mixer.addRecipe(<gregtech:gt.metaitem.01:2300>*10,null, [<ore:dustCopper>*9, <ore:dustTin>*1], null, 100, 16);
+//NO FUNCIONAN ESTOS DOS!!!!
+//Mixer
+//OutputStack, OutputFluid, InputArray, FluidInput, Time in Ticks, EnergyUsage
+//mods.gregtech.Mixer.addRecipe(<gregtech:gt.metaitem.01:2300>,null, [<gregtech:gt.metaitem.01:35>*9, <gregtech:gt.metaitem.01:57>*1], null, 100, 16);
+

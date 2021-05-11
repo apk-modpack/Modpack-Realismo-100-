@@ -4,6 +4,7 @@ Versión 1.16
 - Ahora el carbón del Terrafirmacraft puede ser transformado en carbón de coque directamente en el horno de fuel del Railcraft
 - Eliminado crafteo de conversión carbón normal a carbón Terrafirmacraft y viceversa
 - Añadido crafteo simple de cable de cobre aislado del Gregtech
+- Ajustados crafteos de bronce en Gregtech para corresponder con proporciones del Terrafirmacraft
 
 Versión 1.15
 - Gregtech actualizado
