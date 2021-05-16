@@ -1,4 +1,5 @@
 Versión 1.16
+- Corregidos los crafteos de los Input e Output Bus de los multiblock del Gregtech
 - Las cenizas ahora pueden hacerse quemando los twig o palos en hornos
 - Corregidos crafteos de Batbox y LV-Transformer del Industrialcraft
 - Ahora el carbón del Terrafirmacraft puede ser transformado en carbón de coque directamente en el horno de fuel del Railcraft
