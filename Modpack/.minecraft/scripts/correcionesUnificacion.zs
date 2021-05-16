@@ -26,6 +26,8 @@ recipes.remove(<minecraft:chest>);
 <ore:anvil>.add(<terrafirmacraft:Anvil2:1>);
 <ore:anvil>.add(<terrafirmacraft:Anvil2:2>);
 
+//<ore:chestWood>.remove(<minecraft:chest>);
+
 //correccion crafteo forge hammer vapor
 recipes.remove(<gregtech:gt.blockmachines:112>);
 recipes.addShaped(<gregtech:gt.blockmachines:112>,[[<gregtech:gt.blockmachines:5121>,<ore:craftingPiston>,<gregtech:gt.blockmachines:5121>],[<gregtech:gt.blockmachines:5121>,<gregtech:gt.blockmachines:1>,<gregtech:gt.blockmachines:5121>],[<gregtech:gt.blockmachines:5121>,<ore:anvil>,<gregtech:gt.blockmachines:5121>]]);
