@@ -1,3 +1,3 @@
 @echo off
 set APPDATA=%CD%\Modpack
-"%CD%\Launcher\lanza.exe"
+"%CD%\Launcher\lanza3.exe"

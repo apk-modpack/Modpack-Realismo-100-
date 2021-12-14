@@ -1,4 +1,4 @@
-//nueva receta tie (añadir troncos si necesario)//////////////////////////
+//nueva receta tie (anadir troncos si necesario)//////////////////////////
 recipes.addShaped(<Railcraft:part.tie>*5,[[null,<Railcraft:fluid.creosote.bottle>.transformReplace(<minecraft:glass_bottle>),null],[<ore:logWood>,<ore:logWood>,<ore:logWood>],[null,null,null]]);
 
 recipes.addShaped(<Railcraft:machine.beta>*8,[[<terrafirmacraft:item.Wrought Iron Sheet>,<terrafirmacraft:item.Wrought Iron Sheet>,null],[<terrafirmacraft:item.Wrought Iron Sheet>,<terrafirmacraft:item.Wrought Iron Sheet>,null],[null,null,null]]);

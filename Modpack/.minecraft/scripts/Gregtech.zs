@@ -97,7 +97,7 @@ recipes.addShaped(<terrafirmacraft:item.Wrought Iron Ingot>,[[<gregtech:gt.metai
 
 
 
-//corrección circuito
+//correccion circuito
 //vacuum tube
 recipes.addShaped(<gregtech:gt.metaitem.01:32700>,[[<minecraft:paper>,<gregtech:gt.metaitem.03:32012>,<minecraft:paper>],[<ore:wireFineAnyCopper>,<ore:wireFineAnyCopper>,<ore:wireFineAnyCopper>],[null,null,null]]);
 recipes.addShaped(<gregtech:gt.metaitem.01:32700>,[[<minecraft:paper>,<gregtech:gt.metaitem.03:32012>,<minecraft:paper>],[<ore:wireGt01AnyCopper>,<ore:wireGt01AnyCopper>,<ore:wireGt01AnyCopper>],[null,null,null]]);

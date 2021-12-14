@@ -90,7 +90,7 @@ game.setLocalization("gui.plans.tolva", "Tolva");
 game.setLocalization("gui.plans.hacha", "Hacha");
 game.setLocalization("gui.plans.tuyere2", "Tuyere");
 game.setLocalization("gui.plans.pala", "Pala");
-game.setLocalization("gui.plans.guadana", "Guadaña");
+game.setLocalization("gui.plans.guadana", "Guadanya");
 
 //Remove Anvil Recipe
 //-----------------------------------------------

@@ -6,7 +6,7 @@ recipes.addShaped(<terrafirmacraft:item.Copper Ingot>,[[<ore:nuggetCopper>,<ore:
 recipes.removeShaped(<minecraft:gold_ingot>,[[<ore:nuggetGold>,<ore:nuggetGold>,<ore:nuggetGold>],[<ore:nuggetGold>,<ore:nuggetGold>,<ore:nuggetGold>],[<ore:nuggetGold>,<ore:nuggetGold>,<ore:nuggetGold>]]);
 recipes.addShaped(<terrafirmacraft:item.Gold Ingot>,[[<ore:nuggetGold>,<ore:nuggetGold>,<ore:nuggetGold>],[<ore:nuggetGold>,<ore:nuggetGold>,<ore:nuggetGold>],[<ore:nuggetGold>,<ore:nuggetGold>,<ore:nuggetGold>]]);
 
-//correccion pepitas estaño
+//correccion pepitas estano
 recipes.removeShaped(<Railcraft:ingot:2>,[[<ore:nuggetTin>,<ore:nuggetTin>,<ore:nuggetTin>],[<ore:nuggetTin>,<ore:nuggetTin>,<ore:nuggetTin>],[<ore:nuggetTin>,<ore:nuggetTin>,<ore:nuggetTin>]]);
 recipes.addShaped(<terrafirmacraft:item.Tin Ingot>,[[<ore:nuggetTin>,<ore:nuggetTin>,<ore:nuggetTin>],[<ore:nuggetTin>,<ore:nuggetTin>,<ore:nuggetTin>],[<ore:nuggetTin>,<ore:nuggetTin>,<ore:nuggetTin>]]);
 
@@ -32,7 +32,7 @@ recipes.remove(<minecraft:chest>);
 recipes.remove(<gregtech:gt.blockmachines:112>);
 recipes.addShaped(<gregtech:gt.blockmachines:112>,[[<gregtech:gt.blockmachines:5121>,<ore:craftingPiston>,<gregtech:gt.blockmachines:5121>],[<gregtech:gt.blockmachines:5121>,<gregtech:gt.blockmachines:1>,<gregtech:gt.blockmachines:5121>],[<gregtech:gt.blockmachines:5121>,<ore:anvil>,<gregtech:gt.blockmachines:5121>]]);
 
-//correccion añadir pulverizacion cubo normal
+//correccion anadir pulverizacion cubo normal
 //OutputArray, InputStack, OutputArrayChances, Time in Ticks, EnergyUsage
 //mods.gregtech.Pulverizer.addRecipe([<gregtech:gt.metaitem.01:2032>*3], <minecraft:bucket>, [10000], 168, 4);
 

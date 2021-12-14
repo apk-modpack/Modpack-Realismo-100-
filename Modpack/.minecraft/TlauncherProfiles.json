@@ -1,0 +1,15 @@
+{
+  "clientToken": "f2c8a615-eb5e-4f42-bd7d-7697793d5196",
+  "accounts": {
+    "d33c0f6df7374b39ad5efe42733d4a83": {
+      "username": "apk",
+      "userID": "apk",
+      "displayName": "apk",
+      "uuid": "d33c0f6df7374b39ad5efe42733d4a83",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "d33c0f6df7374b39ad5efe42733d4a83",
+  "freeAccountUUID": "d33c0f6df7374b39ad5efe42733d4a83"
+}
